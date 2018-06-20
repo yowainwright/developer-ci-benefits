@@ -1,4 +1,4 @@
-# Developer CI Benefits
+# Talk: Developer CI Benefits
 
 This repository is in development.
 
@@ -9,7 +9,7 @@ This repository is in development.
 The developer CI benefits talk repository provides documents, links, lists, notes, and slides to support talk.
 The talk is aimed at developers that may not use Continuous Integration (CI) or may not be clear how it works.
 
-**The talk provides:**
+**This talk provides:**
 
 - historical reference from not using CI at Dollar Shave Club Engineering to using CI at Dollar Shave Club Engineering to using
 - setup steps for each part of CI used by Dollar Shave Club Engineering when using JavaScript
