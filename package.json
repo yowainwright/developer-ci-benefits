@@ -1,0 +1,33 @@
+{
+  "name": "developer-ci-benefits",
+  "version": "0.0.1",
+  "description": "CI Developer Benefits: setup, road to benefits, benefits",
+  "main": "README.md",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yowainwright/js-la-developer-ci-benefits.git"
+  },
+  "keywords": [
+    "talk",
+    "ci",
+    "circleci",
+    "jest",
+    "unit-testing"
+  ],
+  "author": "Jeff Wainwright <yowainwright@gmail.com> (https://jeffry.in)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yowainwright/js-la-developer-ci-benefits/issues"
+  },
+  "homepage": "https://github.com/yowainwright/js-la-developer-ci-benefits#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.10.0",
+    "write-good": "^0.13.0"
+  }
+}
