@@ -1,6 +1,6 @@
 # Talk: CI Benefits
 
-> The developer CI benefits talk repository provides documents, links, lists, notes, and slides to support the talk. The CI Benefits Talk covers: setup, road to benefits, and benefits of CI.
+> The developer CI benefits talk repository provides documents, links, lists, notes, and slides to support the talk. The CI Benefits Talk covers: setup, road to benefits, and benefits of CI. This talk's examples are provided in shell commands and JavaScript but can be applied to other development patterns.
 
 ----
 
@@ -16,7 +16,7 @@ The sections below provide context into to flow of the **CI Benefits** talk.
 
 ### Context
 
-This talk is aimed at developers who write code using JavaScript. It describes how CI works with examples for  getting started with CI. It touches on different tooling and options available for CI. It connects implementation on CI and ways to save time for developers and money for companies.
+This talk is aimed at developers interest in CI benefits. It describes how CI works with examples for  getting started with CI. It touches on different tooling and options available for CI. It connects implementation on CI and ways to save time for developers and money for companies.
 
 ### Goals
 
@@ -24,7 +24,7 @@ This talks goals are to provided developers with information to get started with
 
 ### Conclusions
 
-Concluding this talk, listeners/developers will have tools to use to start their own CI processes. They will have a brief exploration into different CI patterns. They will be aware of benefits that developers receive after implmenting CI.
+Concluding this talk, listeners/developers will have tools to use to start their own CI processes. They will have a brief exploration into different CI patterns. They will be aware of benefits that developers receive after implementing CI.
 
 ----
 
