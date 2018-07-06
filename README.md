@@ -1,25 +1,18 @@
-# Talk: Developer CI Benefits
+# Talk: CI Benefits
 
-> CI Developer Benefits: setup, road to benefits, benefits
-
-----
-
-[Context](#context)&nbsp;&nbsp;|
-[Goals](#goals)&nbsp;&nbsp;|
-[Conclusions](#conclusions)&nbsp;&nbsp;|
-[Further Exploration](#further-exploration)&nbsp;&nbsp;|
-[Reference](#reference)&nbsp;&nbsp;|
-[Docs](#docs)
+> The developer CI benefits talk repository provides documents, links, lists, notes, and slides to support the talk. The CI Benefits Talk covers: setup, road to benefits, and benefits of CI.
 
 ----
 
-The developer CI benefits talk repository provides documents, links, lists, notes, and slides to support talk.
+[Initiatives](#context)&nbsp;&nbsp;|
+[Docs](#docs)&nbsp;&nbsp;|
+[Tools](#tools)
 
 ----
 
-## Talk Initiatives
+## Initiatives
 
-The sections below provide context into to flow of the **CI Developer Benefits** talk.
+The sections below provide context into to flow of the **CI Benefits** talk.
 
 ### Context
 
@@ -33,23 +26,15 @@ This talks goals are to provided developers with information to get started with
 
 Concluding this talk, listeners/developers will have tools to use to start their own CI processes. They will have a brief exploration into different CI patterns. They will be aware of benefits that developers receive after implmenting CI.
 
-### Further Exploration
-
-The talk will provide examples to get started and save time with CI.
-
 ----
 
 ## Reference
 
-The list below contains references that were used in the construction of this document.
-
-----
+The sections and lists below contain references that were used in the construction of this repository.
 
 ### Docs
 
 Listed below are docs for the talk. The [Docs README](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/README.md) can be viewed for more docs information. Each doc is used to construct the appropriate slides for each time this talk is presented.
-
-----
 
 ### Tools
 
