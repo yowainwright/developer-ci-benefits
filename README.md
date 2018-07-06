@@ -1,30 +1,19 @@
 # Talk: Developer CI Benefits
 
-This repository is in development.
-
 > **Talk:** CI Developer Benefits: setup, road to benefits, benefits
 
 ----
 
-The developer CI benefits talk repository provides documents, links, lists, notes, and slides to support talk.
-
-**This talk provides:**
-
-- Historical reference from not using CI at Dollar Shave Club Engineering to using CI at Dollar Shave Club Engineering to using
-- Setup steps for each part of CI used by Dollar Shave Club Engineering when using JavaScript
-- exploration into tools that are used by Dollar Shave Club Engineering as well brief exploration into competitor tools not used by Dollar Shave Club Engineering
-- An explanation of developer benefits of using CI at Dollar Shave Club Engineering
-
-- Actual talks will provide a demonstration
+[Talk Context](#talk-context)&nbsp;&nbsp;|
+[Talk Goals](#talk-goals)&nbsp;&nbsp;|
+[Conclusions](#conclusions)&nbsp;&nbsp;|
+[Further Exploration](#further-exploration)&nbsp;&nbsp;|
+[Talk Reference](#talk-reference)&nbsp;&nbsp;|
+[Slides/Docs](#slides-docs)
 
 ----
 
-- [Talk Context](#talk-context)
-- [Talk Goals](#talk-goals)
-- [Conclusions](#conclusions)
-- [Further Exploration](#further-exploration)
-- [Talk Reference](#talk-reference)
-- [Slides/Docs](#slides-docs)
+The developer CI benefits talk repository provides documents, links, lists, notes, and slides to support talk.
 
 ----
 
@@ -58,7 +47,7 @@ The list below contains references that were used in the construction of this do
 
 ### Slides/Docs
 
-Listed below are slides from the talk. The [Docs README]() can be viewed for more slide/docs information.
+Listed below are slides from the talk. The [Docs README](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/README.md) can be viewed for more slide/docs information.
 
 ----
 
