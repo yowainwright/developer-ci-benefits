@@ -1,8 +1,6 @@
 # Key Points
 
-This talk will cover basic to conclusive points about implementing CI. It will reference my e
-
-
+This talk will cover basic to conclusive points about implementing CI. It will reference my experiences learning about, implementing, and then enjoying CI.
 ----
 
 ## Talk Outline

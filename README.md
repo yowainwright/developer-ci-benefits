@@ -1,6 +1,6 @@
 # Talk: Developer CI Benefits
 
-> **Talk:** CI Developer Benefits: setup, road to benefits, benefits
+> CI Developer Benefits: setup, road to benefits, benefits
 
 ----
 
@@ -9,7 +9,7 @@
 [Conclusions](#conclusions)&nbsp;&nbsp;|
 [Further Exploration](#further-exploration)&nbsp;&nbsp;|
 [Talk Reference](#talk-reference)&nbsp;&nbsp;|
-[Slides/Docs](#slides-docs)
+[Docs](#docs)
 
 ----
 
@@ -41,13 +41,13 @@ The talk will provide examples to get started and save time with CI.
 
 ## Talk Reference
 
-The list below contains references that were used in the construction of this document
+The list below contains references that were used in the construction of this document.
 
 ----
 
-### Slides/Docs
+### Docs
 
-Listed below are slides from the talk. The [Docs README](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/README.md) can be viewed for more slide/docs information.
+Listed below are docs for the talk. The [Docs README](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/README.md) can be viewed for more docs information. Each doc is used to construct the appropriate slides for each time this talk is presented.
 
 ----
 
