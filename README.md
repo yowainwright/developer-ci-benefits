@@ -4,11 +4,11 @@
 
 ----
 
-[Talk Context](#talk-context)&nbsp;&nbsp;|
-[Talk Goals](#talk-goals)&nbsp;&nbsp;|
+[Context](#context)&nbsp;&nbsp;|
+[Goals](#goals)&nbsp;&nbsp;|
 [Conclusions](#conclusions)&nbsp;&nbsp;|
 [Further Exploration](#further-exploration)&nbsp;&nbsp;|
-[Talk Reference](#talk-reference)&nbsp;&nbsp;|
+[Reference](#reference)&nbsp;&nbsp;|
 [Docs](#docs)
 
 ----
@@ -39,7 +39,7 @@ The talk will provide examples to get started and save time with CI.
 
 ----
 
-## Talk Reference
+## Reference
 
 The list below contains references that were used in the construction of this document.
 
