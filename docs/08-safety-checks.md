@@ -2,6 +2,10 @@
 
 Described below are tools that assist in safely checking code before a pull request or merge is submitted. Safety checks can also be incorporated into merges which will be described next.
 
+## Why Safety Checks?
+
+Safety checks can automate review or code quality, code logic, code style, spelling and grammar.
+
 ## Defining Code (Type Checkers)
 
 Tools like TypeScript clearly define and communicate code interfaces—not just types!
@@ -22,7 +26,7 @@ Stylelint, Markdownlint, HTMLLint are other tools, like Eslint that compare a re
 
 ## Writing, commenting
 
-Tools like [Writegood]() can help catch spelling mistakes in documentation. Tools like JSDocs or TypeDocs can assist in writing documentation or add useful hints in Code Editors.
+Tools like [Write good](https://github.com/btford/write-good) can help catch spelling mistakes in documentation. Tools like JSDocs or TypeDocs can assist in writing documentation or add useful hints in Code Editors.
 
 ## Committing, merging, communicating
 
