@@ -23,3 +23,10 @@ Here's the number references again so that it can be reviewed in greater detail:
 - The `3` represents a minor update or patch. This update is made when dependencies are updated, bugs are fixed, or something is optimized but isn't new or doesn't affect the package with how it is used.
 
 ## What are the weird things in front of the numbers?
+
+There are a few things that are placed in front of version numbers that allow npm to download new packages approximately.
+
+- **`^`**: The up caret down the latest feature version of packages
+  - if the package looks like this `^1.1.0` and the latest version is `1.5.0`, npm will download `1.5.0`.
+- **`~`**: The tilde downloads the the latest patch version of packages
+  - if the package looks like this `~1.0.1` and the latest version is this `1.0.5`, npm will download `1.0,5`
