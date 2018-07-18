@@ -37,6 +37,14 @@ NPM publishing can be done with one command `npm publish`. There are a few thing
 
 Private npm publishing can also be done with one command—`npm publish`. The only thing that initially makes a package private is whether it is scoped or not.
 
+Private npm packages require that the publisher be a member of organization. A 404 message will be received if a non-member of a scoped package tried to publish.
+
+Private npm packages can be made publish within the [npmjs.com](https://npmjs.com) ui
+or by running `npm access restricted <package_name>`.
+
+You can read more detail about [private npm in the npm docs](https://docs.npmjs.com/private-modules/intro).
 
 ## NPM Publishing with CI
+
+NPM can be published in CI by adding configuration steps within the CI to do so.
 
