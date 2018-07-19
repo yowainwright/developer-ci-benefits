@@ -76,3 +76,13 @@ The list below contains references that were used in the construction of this re
 - **[Puppeteer](https://pptr.dev/):** a Chrome browser tool that provides an API to control Chrome
 - **[Selenium](https://github.com/SeleniumHQ/selenium/wiki/Getting-Started):** a tool for automating web testing
 
+## Shoutouts 🙏
+
+There are many more people I would like to thank. Because these people will be referenced in the talk, I'd like to thank them.
+
+- **[Rouzbeh](https://github.com/rouzbeh84):** Thanks for helping me with this talk and always making software seem so fun.
+- **[Brian Gonzalez]():** Thanks for building a lot of cool s**t always—especially stuff referenced in this talk.
+- **[Jon Ong]():** You're brilliant and I got to watch you build many awesome things—including stuff for CI—like [automerge]().
+- **[Arjan Singh]():** Thanks for forcing me to do TDD (Test Driven Development).
+- **[Matt Young]():** Thanks doing a bunch of cool CI things—like Autodate—make it public!
+- **[Brian Gates]():** Thanks for improving caching practices in CircleCi. You've saved me so much time.
