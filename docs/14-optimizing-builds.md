@@ -4,5 +4,19 @@ Optimizing builds can be approached for the customer or for the developer. Optim
 
 ## Optimizing Builds for Development
 
+The notes below provide ideas and patterns used for optimizing CI builds for developers
+
+## Publishing
+
+Publishing work is not only for open source packages—which is loosely what I thought a few years ago. It is very useful for safely releasing work
+
+```json
+"foo-package": "1.2.3",
+"bar-package": "0.4.5",
+
+
+
+
 ## Optimizing Builds for Customers
 
+## Useful tooks for optimizing builds

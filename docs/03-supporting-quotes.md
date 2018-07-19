@@ -11,3 +11,7 @@ This quote was chosen because before starting at Dollar Shave Club, I had worked
 _[David Farley](http://www.davefarley.net/), [Continuous Delivery](https://martinfowler.com/books/continuousDelivery.html)
 
 This quote was chosen because it breaks down what can seem mythical into a process that any person can follow and safely **try** to ship code.
+
+----
+
+I am a process oriented developer. Building and using tools which provide as much feedback as possible is valuable to me. —me

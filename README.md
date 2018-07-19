@@ -28,38 +28,38 @@ Listed below are docs for the talk. The [Docs README](https://github.com/yowainw
 
 ----
 
-- **Talk Objectives**
+- **[Talk Objective]()s**
   - Talk introduction
-- **What is CI?**
+- **[What is CI?]()**
   - Definitions that define the talk
-- **Supporting Quotes**
+- **[Supporting Quotes]()**
   - Quotes to sell this talks value
-- **Key Talk Points**
+- **[Key Talk Point]()s**
   - A list of 4 high level points covered in this talk
-- **Learning about CI**
+- **[Learning about CI]()**
   - When the speaker started learning about CI
   - Introduction to unit testing
-- **Unit Testing Example**
+- **[Unit Testing Example]()**
   - A basic unit testing example in pure JavaScript
-- **Beginning Integration**
+- **[Beginning Integration]()**
   - A very basic walk through different code integration patterns
-- **Safety Checks**
+- **[Safety Checks]()**
   - A list of tools to assist with CI
-- **Running Tests and Checks**
+- **[Running Tests and Checks]()**
   - How to run tests and checks
-- **Implementing CI**
+- **[Implementing CI]()**
   - The basics of implementing CI
-- **Dependency Updates**
+- **[Dependency Updates]()**
   - A description of what dependencies are and how to update them
-- **Publishing Repositories**
+- **[Publishing Repositories]()**
   - A high level walk through of publishing NPM packages
-- **Basic Doc Tooling**
+- **[Basic Doc Tooling]()**
   - A description and list of repository documentation
-- **Optimizing Builds**
+- **[Optimizing Builds]()**
   - Notes on easy build optimizations
-- **Putting It All Together**
+- **[Putting It All Together]()**
   - Putting all of slides together to make a working CI process
-- **Talk Summation**
+- **[Talk Summation]()**
   - A summary of the talk cuz that's it
 
 ----
