@@ -26,6 +26,8 @@ Concluding this talk, listeners/developers will have tools to use to start their
 
 Listed below are docs for the talk. The [Docs README](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/README.md) can be viewed for more docs information. Each doc is used to construct the appropriate slides for each time this talk is presented.
 
+----
+
 - **Talk Objectives**
   - Talk introduction
 - **What is CI?**
