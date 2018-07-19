@@ -20,15 +20,31 @@ This talks goals are to provided developers with information to get started with
 
 Concluding this talk, listeners/developers will have tools to use to start their own CI processes. They will have a brief exploration into different CI patterns. They will be aware of benefits that developers receive after implementing CI.
 
+---
+
+## Document Bullet Points 🔫
+
+Listed below are docs for the talk. The [Docs README](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/README.md) can be viewed for more docs information. Each doc is used to construct the appropriate slides for each time this talk is presented.
+
+- ### Talk Objectives
+  - Talk introduction
+- ### What is CI
+  - Definitions that define the talk
+- ### Supporting Quotes
+  - Quotes to sell this talks value
+- ### Key Talk Points
+  - A list of 4 high level points covered in this talk
+- ### Learning about CI
+  - When the speaker started learning about CI
+  - Introduction to unit testing
+- ### Unit Testing Example
+  - A basic unit testing example in pure JavaScript
+
 ----
 
 ## Reference 📝
 
 The sections and lists below contain references that were used in the construction of this repository.
-
-### Docs
-
-Listed below are docs for the talk. The [Docs README](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/README.md) can be viewed for more docs information. Each doc is used to construct the appropriate slides for each time this talk is presented.
 
 ### Tools
 
