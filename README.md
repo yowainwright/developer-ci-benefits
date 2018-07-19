@@ -4,13 +4,7 @@
 
 ----
 
-[Initiatives](#context)&nbsp;&nbsp;|
-[Docs](#docs)&nbsp;&nbsp;|
-[Tools](#tools)
-
-----
-
-## Initiatives
+## Initiatives 📈
 
 The sections below provide context into to flow of the **CI Benefits** talk.
 
@@ -28,7 +22,7 @@ Concluding this talk, listeners/developers will have tools to use to start their
 
 ----
 
-## Reference
+## Reference 📝
 
 The sections and lists below contain references that were used in the construction of this repository.
 
