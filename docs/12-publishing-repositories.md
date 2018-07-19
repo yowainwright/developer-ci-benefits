@@ -48,3 +48,22 @@ You can read more detail about [private npm in the npm docs](https://docs.npmjs.
 
 NPM can be published in CI by adding configuration steps within the CI to do so.
 
+These build steps look someting like this:
+
+```yml
+
+publish:
+    <<: *defaults
+    steps:
+      - checkout
+      - run: npm install
+      - run:
+          name: NPM Access ($NPM_WRITE_TOKEN set in Circle)
+          command: echo "//registry.npmjs.org/:_authToken=$NPM_WRITE_TOKEN" >> ~/.npmrc
+      - run: git config --global user.email "circle@dontemailme.com" && git config user.name "CircleCI"
+      - run: npm run update-tag
+      - run: npm publish
+
+```
+
+In thNPM write tokens can be added to a `.npmrc` . This
