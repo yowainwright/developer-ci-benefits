@@ -1,20 +1,20 @@
 # Talk: CI Benefits
 
-> The developer CI benefits talk repository provides documents, links, lists, notes, and slides to support the talk. The CI Benefits Talk covers: setup, road to benefits, and benefits of CI. This talk's examples are provided in shell commands and JavaScript but can be applied to other development patterns.
+> The developer CI benefits talk repository provides documents, links, lists, notes, and slides to support the talk. The CI Benefits Talk covers: setup, road to benefits, and benefits of CI. This talk's examples are provided in shell commands and JavaScript but can be applied to other development patterns. If unfamiliar, CI stands for [continuous integration]().
 
 ----
 
 ## Initiatives 📈
 
-The sections below provide context into to flow of the **CI Benefits** talk.
+The sections below provide context into to flow of the **Developer CI Benefits** talk. This talk uses JavaScript to describe CI but CI pattern in other languages may be similar.
 
 ### Context
 
-This talk is aimed at developers interest in CI benefits. It describes how CI works with examples for  getting started with CI. It touches on different tooling and options available for CI. It connects implementation on CI and ways to save time for developers and money for companies.
+This talk is aimed at developers interested in CI benefits. It describes how CI works with examples for  getting started with CI. It touches on different tooling and options available for CI. It connects implementation on CI and ways to save time for developers and money for companies.
 
 ### Goals
 
-This talks goals are to provided developers with information to get started with CI while also providing options for CI patterns and the benefits of using CI.
+This talk's goals are to describe CI, CI benefits, CI patterns, and provide developers with information to get started with CI.
 
 ### Conclusions
 
@@ -24,11 +24,11 @@ Concluding this talk, listeners/developers will have tools to use to start their
 
 ## Document Bullet Points 🔫
 
-Listed below are docs for the talk. The [Docs README](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/README.md) can be viewed for more docs information. Each doc is used to construct the appropriate slides for each time this talk is presented.
+Listed below are docs for the talk. The [Docs README](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/README.md) can be viewed for more docs information.
 
 ----
 
-- **[Talk Objective]()s**
+- **[Talk Objectives]()**
   - Talk introduction
 - **[What is CI?]()**
   - Definitions that define the talk
@@ -66,8 +66,13 @@ Listed below are docs for the talk. The [Docs README](https://github.com/yowainw
 
 ## Reference 📝
 
-The sections and lists below contain references that were used in the construction of this repository.
+The list below contains references that were used in the construction of this repository.
 
-### Tools
+- **[CircleCi](https://circleci.com/):** the tool used and described in this repository to run CI
+- **[Travis](https://travis-ci.org/):** a CI runner alternative to CircleCi used to run CI
+- **[Greenkeeper](https://greenkeeper.io/):** a tool to monitor and assist in updated JavaScript packages
+- **[NPM](https://www.npmjs.com/):** a package manager for node/JavaScript projects
+- **[Jest](https://jestjs.io/):** a unit testing tool for testing JavaScript projects
+- **[Puppeteer](https://pptr.dev/):** a Chrome browser tool that provides an API to control Chrome
+- **[Selenium](https://github.com/SeleniumHQ/selenium/wiki/Getting-Started):** a tool for automating web testing
 
-Here are some common tools used for testing and CI.

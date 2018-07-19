@@ -8,7 +8,7 @@ The notes below provide ideas and patterns used for optimizing CI builds for dev
 
 ## Publishing
 
-Publishing work is not only for open source packages—which is loosely what I thought a few years ago. It is very useful for safely releasing work
+Publishing work is not only for open source packages—which is what I thought a few years ago. It is very useful for safely releasing, sharing and using work across multiple repositories.
 
 ```json
 "foo-package": "1.2.3",
