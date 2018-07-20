@@ -1,10 +1,10 @@
 {
   "name": "developer-ci-benefits",
   "version": "0.0.1",
-  "description": "CI Developer Benefits: setup, road to benefits, benefits",
+  "description": "Talk: Developer CI Benefits: setup, road to benefits, and  benefits",
   "main": "README.md",
   "directories": {
-    "doc": "docs"
+    "docs": "docs"
   },
   "scripts": {
     "chore:branch": "git checkout -b chore-changelog",
