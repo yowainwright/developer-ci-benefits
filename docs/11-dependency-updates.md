@@ -10,7 +10,7 @@ This is greatly beneficial for developers because dependencies can be kept up to
 
 ## Breaking down dependencies
 
-Packages have a corresponding semver number that is genearally defined by 3 numbers and dots. Here's an example for reading clarity, `1.2.3`. These numbers can be followed by a `-` with other information. For the purposes of this talk, only the first 3 numbers will be discussed.
+Packages have a corresponding semver number that is generally defined by 3 numbers and dots. Here's an example for reading clarity, `1.2.3`. These numbers can be followed by a `-` with other information. For the purposes of this talk, only the first 3 numbers will be discussed.
 
 Here's the number references again so that it can be reviewed in greater detail:
 

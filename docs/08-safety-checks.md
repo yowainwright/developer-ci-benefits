@@ -10,7 +10,7 @@ Safety checks can automate review or code quality, code logic, code style, spell
 
 Tools like TypeScript clearly define and communicate code interfaces—not just types!
 
-**note:** TypeScript can seem like another layer of code abstraction or learning—so be gentle on yourself or others if learning is feeling or seeming overwelming. Though, on a team like Dollar Shave Club's frontend, TypeScript has help bridge experience gaps, design team patterns, and assist developers when confused.
+**note:** TypeScript can seem like another layer of code abstraction or learning—so be gentle on yourself or others if learning is feeling or seeming overwhelming. Though, on a team like Dollar Shave Club's frontend, TypeScript has help bridge experience gaps, design team patterns, and assist developers when confused.
 
 ## Linting
 
@@ -30,5 +30,5 @@ Tools like [Write good](https://github.com/btford/write-good) can help catch spe
 
 ## Committing, merging, communicating
 
-Tools like pre-commit, commit standard tools, Github Templates, and Changelogs greatly help in CI code commiting processes.
+Tools like pre-commit, commit standard tools, Github Templates, and Changelogs greatly help in CI code committing processes.
 

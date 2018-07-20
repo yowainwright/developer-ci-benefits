@@ -14,7 +14,7 @@ Getting CI started for a repository takes minutes or even less! This document wi
 
 If test commands are already defined, CI can be implemented with no configuration. In a CI tool, like [Travis](https://travis-ci.org/) or [CircleCi](https://circleci.com/), you search for your repository a click a button that is essentially—start building with CI.
 
-For JavaScript, CicleCi will look at `test` within a repository's `package.json` to see it valid test script is added. If it is, then CircleCi will begine running CI automatically.
+For JavaScript, CicleCi will look at `test` within a repository's `package.json` to see it valid test script is added. If it is, then CircleCi will begin running CI automatically.
 
 ## Very basic setup if Tests are not yet written
 

@@ -19,4 +19,4 @@ Publishing work is not only for open source packages—which is what I thought a
 
 ## Optimizing Builds for Customers
 
-## Useful tooks for optimizing builds
+## Useful tools for optimizing builds

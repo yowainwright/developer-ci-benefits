@@ -18,7 +18,7 @@ Most tests and safety checks are run via shell commands or cli tools. A clear in
 
 A human can do all of the things CI Tests and Safety Checks do. A human can try changed code in an application to see if it works, review spelling, and look over code quality. All of that review takes a long time and is prone to human error. Apps can be used to run tests and safety checks but starting apps manually and using an app's interface takes time too but do this repeatedly also takes a lot of human time.
 
-On the contrary to human review and manual app review, runing tests and safety commands via a shell can use apps and tools without a human involvement to achieve the same results but better. Plus, running commands can be done repeatedly within a short time frame and at an automated time frame. More information about running commands at an automated time frame will be discribed in a later document.
+On the contrary to human review and manual app review, running tests and safety commands via a shell can use apps and tools without a human involvement to achieve the same results but better. Plus, running commands can be done repeatedly within a short time frame and at an automated time frame. More information about running commands at an automated time frame will be described in a later document.
 
 ## Running Test and Check Examples
 

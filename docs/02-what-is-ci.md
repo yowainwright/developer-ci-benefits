@@ -4,7 +4,7 @@ Continuous Integration is the practice of merging all developer working copies t
 
 ## My definition
 
-Continuouse Integration is a pattern of programming combining infrastructure, testing, and development practices to safely and confidently push code from development to production continuously.
+Continuous Integration is a pattern of programming combining infrastructure, testing, and development practices to safely and confidently push code from development to production continuously.
 
 ----
 

@@ -6,7 +6,7 @@ The last slide's `addsOne` function and assertion, describes the initial foundat
 
 Once code is unit tested and the developer is more confident to submit a pull request or merge their code into a master (shared) branch, there are more safety checks to assist them in submitting code.
 
-**Note:** the sentence above assumed that [git]() is being used. Code can be submitted via alternate patterns like FTP or saving within a CMS. In those scenerios unit tests and the integrations below can still be used.
+**Note:** the sentence above assumed that [git]() is being used. Code can be submitted via alternate patterns like FTP or saving within a CMS. In those scenarios unit tests and the integrations below can still be used.
 
 ## Safety Checks
 

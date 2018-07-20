@@ -1,6 +1,6 @@
 # Learning about CI
 
-A long long time ago (about 2 years), I don't know if I was genearally familiar CI and TDD. I had become familiar with writing unit tests and was beginning to enjoy the feedback that unit tests could provide.
+A long long time ago (about 2 years), I don't know if I was generally familiar CI and TDD. I had become familiar with writing unit tests and was beginning to enjoy the feedback that unit tests could provide.
 
 ## TESTING: Part 1, Unit Tests
 

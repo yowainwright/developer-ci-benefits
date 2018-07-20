@@ -1,6 +1,6 @@
 # Publishing Repositories
 
-Publishing packages, even if the only dependents are an orgs dependents can be very valuable. With a few steps packages can be published publically or privately.
+Publishing packages, even if the only dependents are an orgs dependents can be very valuable. With a few steps packages can be published publicly or privately.
 
 ----
 
@@ -10,13 +10,13 @@ Publishing packages, even if the only dependents are an orgs dependents can be v
 
 ## NPM Publishing
 
-Being able to publsh npm packages assumes a basic understanding package managers, npm's cli, and npm's `package.json`.
+Being able to publish npm packages assumes a basic understanding package managers, npm's cli, and npm's `package.json`.
 
 ### Level setting
 
 The list below provides basics of setting up a NPM package.
 
-- `npm init` instatiates a series of prompts which will help to make a repository's `package.json`
+- `npm init` instantiates a series of prompts which will help to make a repository's `package.json`
 - within a `package.json` file there are core objects and keys that are discussed regularly: configuration, dependencies, meta, and scripts
   - **configuration:** things like jest setup
   - **dependencies:** npm packages that repository is dependent on
@@ -48,7 +48,7 @@ You can read more detail about [private npm in the npm docs](https://docs.npmjs.
 
 NPM can be published in CI by adding configuration steps within the CI to do so.
 
-These build steps look someting like this:
+These build steps look something like this:
 
 ```yml
 
@@ -66,4 +66,4 @@ publish:
 
 ```
 
-In thNPM write tokens can be added to a `.npmrc` . This
+Then NPM write tokens can be added to a `.npmrc` . This

@@ -1,0 +1,87 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+ - docs/01-talk-objectives.md
+frontend
+ - docs/03-supporting-quotes.md
+crossfit
+Wes
+Bos
+_
+ - docs/05-learning-about-ci.md
+2
+1
+ - docs/06-unit-test-example.md
+es6
+es5
+ - docs/07-beginning-integration.md
+Linter
+ - docs/08-safety-checks.md
+Eslint
+TS-Lint
+Stylelint
+Markdownlint
+HTMLLint
+JSDocs
+TypeDocs
+Github
+ - docs/09-running-tests-and-checks.md
+CircleCi
+cli
+iTerm
+eslint
+ - docs/10-implementing-ci.md
+Init
+CicleCi
+ci
+javascript
+npm
+ - docs/11-dependency-updates.md
+Greenkeper
+semver
+3
+ - docs/12-publishing-repositories.md
+orgs
+404
+npmjs.com
+ui
+ - docs/13-basic-doc-tooling.md
+CODE_OF_CONDUCT
+ISSUE_TEMPLATE
+PULL_REQUEST_TEMPLATE
+READMEs
+goto
+HEARTLY
+Heartly
+ - docs/14-optimizing-builds.md
+Optimizating
+json
+1.2.3
+0.4.5
+ - docs/16-talk-summation.md
+heartly
+Jeffry.in
+ - docs/README.md
+4
+cuz
+ - node_modules/align-text/README.md
+Params
+params
+Center
+center-align
+Schlinkert
+github
+jonschlinkert
+2015
+09
+ - docs/04-key-talk-points.md
+Take-aways
+ - README.md
+Shoutouts
+Rouzbeh
+Ong
+gh-automerge
+Arjan
+Singh

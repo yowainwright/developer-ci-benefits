@@ -12,7 +12,7 @@ Standard files used to document a repository. These files site at the top level 
 
 - **README:** the README is general a markdown file that provides information about a repository
 - **CHANGELOG:** the CHANGELOG is a markdown file describes changes within a repository
-- **CODE_OF_CONDUCT:** the CODE OF CONDUCT is a markdown file that dicates expected communication patterns within repository pull requests and issues
+- **CODE_OF_CONDUCT:** the CODE OF CONDUCT is a markdown file that dictates expected communication patterns within repository pull requests and issues
 - **LICENSE:** the LICENSE is a text file that dictate rules of law to protect a repository
 
 ### `.github` TEMPLATES
@@ -20,7 +20,7 @@ Standard files used to document a repository. These files site at the top level 
 Templates that are placed within a `.github` folder. Each template is automatically presented based Github interactions.
 
 - **CONTRIBUTING:** the CONTRIBUTING template is an auto-reply markdown template that provide repository contributing context by referencing CODE OF CONTENT and maybe guidelines to successful contribution
-- **ISSUE_TEMPLATE:* the ISSUE template is an auto-reply markdown template that appears after a developer sumbits an issue
+- **ISSUE_TEMPLATE:* the ISSUE template is an auto-reply markdown template that appears after a developer submits an issue
 - **PULL_REQUEST_TEMPLATE:** the PULL REQUEST TEMPLATE is an auto-reply markdown template that appears when a developer submits a pull request
 
 ### Reference Materials

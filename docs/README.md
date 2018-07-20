@@ -4,7 +4,7 @@ The docs folder contains *slide/item(s) discussed in the talk.
 
 Each slide/item will be presented in the talk.
 
-**items:** with the context of a respository, each file is an "item" containing text describing particular subjects of _Developer CI Benefits_. Each items will be viewed as a "slide" for the talk.
+**items:** with the context of a repository, each file is an "item" containing text describing particular subjects of _Developer CI Benefits_. Each items will be viewed as a "slide" for the talk.
 
 ## Items
 
