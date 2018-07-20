@@ -24,5 +24,5 @@ jobs:
       - checkout
       - restore_cache: *restore_cache
       - run: npm i
-      - run: npm test
+      - run: npm test:ci
       - save_cache: *save_cache

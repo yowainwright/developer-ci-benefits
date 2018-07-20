@@ -34,7 +34,7 @@ Listed below are docs for the talk. The [Docs README](https://github.com/yowainw
   - Definitions that define the talk
 - **[Supporting Quotes](/#)**
   - Quotes to sell this talks value
-- **[Key Talk Point](/#)s**
+- **[Key Talk Points](/#)**
   - A list of 4 high level points covered in this talk
 - **[Learning about CI](/#)**
   - When the speaker started learning about CI

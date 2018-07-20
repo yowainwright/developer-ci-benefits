@@ -1,6 +1,7 @@
 # Key Points
 
 This talk will cover basic to conclusive points about implementing CI. It will reference my experiences learning about, implementing, and enjoying CI.
+
 ----
 
 ## Talk Outline
@@ -10,3 +11,4 @@ This talk will cover basic to conclusive points about implementing CI. It will r
 - **CI Tooling:** Exploration into tools that are used by Dollar Shave Club Engineering as well brief exploration into other tools **not** used by Dollar Shave Club Engineering
 - **CI Benefits:** An explanation of developer benefits of using CI
 - **Take-aways:** Actual talks will provide a demonstrations
+
