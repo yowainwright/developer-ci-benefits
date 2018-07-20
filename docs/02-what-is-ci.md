@@ -16,7 +16,7 @@ CI consists, as defined by this talk, of 4 parts: code, a feedback loop for disc
 
 ### Code
 
-Code can exist in many environments—think FTP, code editor tools, design tools (After Effects) if your mind immediately jumps to git. Git repositories are standard environment to store code. This talk focuses on code hosted on Github and updated using git and publishing via NPM. The artifact of this code exists within production.
+Code can exist in many environments—think FTP, code editor tools, design tools (After Effects) if your mind immediately jumps to git. Git repositories are standard environment to store code. This talk focuses on code hosted on Github and updated using git and publishing via NPM. The q of this code exists within production.
 
 ### Feedback Loop
 
@@ -28,7 +28,7 @@ Unit tests, acceptance tests, linting, types provide information about code qual
 
 ### Runner Scripts
 
-While Testing code defines production code quality. Testing code does not build scripts for production or run tests in a maintainable or cronalogical way. Runner Scripts test code, compile code for production, and provide feedback loops so that engineers or systems can decide if code is production ready.
+While Testing code defines production code quality. Testing code does not build scripts for production or run tests in a maintainable or chronological way. Runner Scripts test code, compile code for production, and provide feedback loops so that engineers or systems can decide if code is production ready.
 
 ----
 

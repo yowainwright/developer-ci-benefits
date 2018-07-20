@@ -2,7 +2,7 @@
 
 The example below is a unit test provided purely by the browser!
 
-The function below is written in TypeScript initialy. This is done so _hopefully_, a potential failure is clear
+The function below is written in TypeScript initially. This is done so _hopefully_, a potential failure is clear
 _(The function expects a number)_. TypeScript help define a code's interface.
  After writing the code below in TypeScript, a text editor can be configured to quickly communicate to a developer if it is working as expected.
 
