@@ -7,8 +7,15 @@
     "doc": "docs"
   },
   "scripts": {
+    "chore:branch": "git checkout -b chore-changelog",
+    "chore:changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "chore:pr": "git add . && git commit -m '[chore] updates changelog' --no-verify && git push origin chore-changelog -f",
+    "chore": "npm run chore:delete-branch && npm run chore:branch && npm run chore:changelog && npm run chore:pr",
     "grammar": "write-good *.md --no-passive",
     "markdownlint": "markdownlint *.md",
+    "postpublish": "git tag $npm_package_version && git push origin --tags && npm run chore",
+    "prepush": "npm test",
+    "pre-commit-msg": "Echo 'Running pre-commit checks...' && exit 0",
     "spelling": "mdspell '**/*.md' '!**/node_modules/**/*.md' --ignore-numbers",
     "spelling:ci": "mdspell '**/*.md' '!**/node_modules/**/*.md' --ignore-numbers --report",
     "start": "npm i",
@@ -33,7 +40,8 @@
   },
   "homepage": "https://github.com/yowainwright/js-la-developer-ci-benefits#readme",
   "devDependencies": {
-    "conventional-changelog": "^2.0.1",
+    "conventional-changelog-cli": "^2.0.1",
+    "husky": "^0.14.3",
     "markdown-spellcheck": "^1.3.1",
     "markdownlint-cli": "^0.10.0",
     "write-good": "^0.13.0"
