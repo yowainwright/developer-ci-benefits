@@ -3,6 +3,7 @@
 # global dictionary is at the start, file overrides afterwards
 # one word per line, to define a file override use ' - filename'
 # where filename is relative to this configuration file
+take-aways
  - docs/01-talk-objectives.md
 frontend
  - docs/03-supporting-quotes.md
@@ -40,6 +41,7 @@ CicleCi
 ci
 javascript
 npm
+Linter
  - docs/11-dependency-updates.md
 Greenkeper
 semver
@@ -92,3 +94,25 @@ Sarrafieh
 Github
 NPM
 mergable
+ - docs/04-what-is-ci.md
+Github
+NPM
+mergable
+ - docs/05-doc-tooling.md
+CODE_OF_CONDUCT
+ISSUE_TEMPLATE
+PULL_REQUEST_TEMPLATE
+READMEs
+goto
+HEARTLY
+Heartly
+ - docs/06-unit-testing.md
+es6
+es5
+console.assert
+Quokka
+ - docs/14-optimizations.md
+json
+ - docs/15-talk-summation.md
+heartly
+Jeffry.in

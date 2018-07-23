@@ -35,7 +35,7 @@ Each slide/item will be presented in the talk.
 - **[Publishing Repositories](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/12-publishing-repositories.md)**
   - A high level walk through of publishing NPM packages
 - **[Benefits of CI](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/12-ci-benefits.md)**
-  -
+  - CI benefits
 - **[Optimizations](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/14-optimizing-builds.md)**
   - Notes on easy build optimizations
 - **[Talk Summation](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/16-talk-summation.md)**
