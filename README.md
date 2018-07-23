@@ -1,3 +1,5 @@
+![Developer CI Benefits](https://jeffry.in/assets/developer-ci-benefits/banner.svg)
+
 # Talk: Developer CI Benefits
 
 > The Developer CI Benefits talk repository provides documents, links, lists, notes, and slides to support the talk. The CI Benefits Talk covers: setup, road to benefits, and benefits of CI. This talk's examples are provided in shell commands and JavaScript but can be applied to other development patterns. If unfamiliar, CI stands for [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration).
