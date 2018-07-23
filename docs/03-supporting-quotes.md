@@ -8,7 +8,7 @@ This quote was chosen because before starting at Dollar Shave Club, I had worked
 
 > Releasing software is too often an art; it should be an engineering discipline.
 
-_[David Farley](http://www.davefarley.net/), [Continuous Delivery](https://martinfowler.com/books/continuousDelivery.html)
+_[David Farley](http://www.davefarley.net/), [Continuous Delivery](https://martinfowler.com/books/continuousDelivery.html)_
 
 This quote was chosen because it breaks down what can seem mythical into a process that any person can follow and safely **try** to ship code.
 

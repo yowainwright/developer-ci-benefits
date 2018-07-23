@@ -10,6 +10,22 @@ Getting CI started for a repository takes minutes or even less! This document wi
 
 ----
 
+## Starting Integration
+
+Once code is unit tested and the developer is more confident to submit a pull request or merge their code into a master (shared) branch, there are more safety checks to assist them in submitting code.
+
+**Note:** the sentence above assumed that [git]() is being used. Code can be submitted via alternate patterns like FTP or saving within a CMS. In those scenarios unit tests and the integrations below can still be used.
+
+## Safety Checks
+
+Safety Checks like Type Checkers, Linter, Documentation and Git helpers can catch unexpected bugs, define code, fix spelling, and make code more uniform to universal developer patterns.
+
+### Unit Tests
+
+### End to End Tests
+
+### Code Quality Checks
+
 ## Automatic Setup
 
 If test commands are already defined, CI can be implemented with no configuration. In a CI tool, like [Travis](https://travis-ci.org/) or [CircleCi](https://circleci.com/), you search for your repository a click a button that is essentially—start building with CI.

@@ -32,19 +32,20 @@ Listed below are docs for the talk. The [Docs README](https://github.com/yowainw
 
 - **[Talk Objectives](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/01-talk-objectives.md)**
   - Talk introduction
-- **[What is CI?](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/02-what-is-ci.md)**
-  - Definitions that define the talk
+- **[Key Points](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/02-key-point.md)**
+  - The key points covered in the talk
 - **[Supporting Quotes](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/03-supporting-quotes.md)**
   - Quotes to sell this talks value
-- **[Key Talk Points](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/04-key-talk-points.md)**
-  - A list of 4 high level points covered in this talk
-- **[Learning about CI](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/05-learning-about-ci.md)**
-  - When the speaker started learning about CI
+- **[What is CI](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/04-what-is-ci.md)**
+  - CI definition with context
+- **[Doc Tooling](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/05-doc-tooling.md)**
+  - A description and list of repository documentation
+- **[Unit Testing](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/06-unit-test.md)**
   - Introduction to unit testing
-- **[Unit Testing Example](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/06-unit-test-example.md)**
   - A basic unit testing example in pure JavaScript
-- **[Beginning Integration](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/07-beginning-integration.md)**
-  - A basic walk through different code integration patterns
+- **[End to End Testing](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/07-end-to-end-testing.md)**
+  - Introduction to end to end testing
+  - A basic end-to-end test example
 - **[Safety Checks](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/08-safety-checks.md)**
   - A list of tools to assist with CI
 - **[Running Tests and Checks](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/09-running-tests-and-checks.md)**
@@ -55,12 +56,10 @@ Listed below are docs for the talk. The [Docs README](https://github.com/yowainw
   - A description of what dependencies are and how to update them
 - **[Publishing Repositories](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/12-publishing-repositories.md)**
   - A high level walk through of publishing NPM packages
-- **[Basic Doc Tooling](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/13-basic-doc-tooling.md)**
-  - A description and list of repository documentation
-- **[Optimizing Builds](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/14-optimizing-builds.md)**
+- **[Benefits of CI](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/12-ci-benefits.md)**
+  - CI benefits
+- **[Optimizations](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/14-optimizing-builds.md)**
   - Notes on easy build optimizations
-- **[Putting It All Together](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/15-putting-it-all-together.md)**
-  - Putting the slides together to make a working CI process
 - **[Talk Summation](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/16-talk-summation.md)**
   - A summary of the talk cuz that's it
 
