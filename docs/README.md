@@ -1,10 +1,10 @@
 # Developer CI Benefits Docs
 
-The docs folder contains *slide/item(s) discussed in the talk.
+The docs folder contains *docs/item(s) discussed in the talk.
 
-Each slide/item will be presented in the talk.
+Each doc/item will be presented in the talk.
 
-**items:** with the context of a repository, each file is an "item" containing text describing particular subjects of _Developer CI Benefits_. Each items will be viewed as a "slide" for the talk.
+**items:** with the context of a repository, each file is an "item" containing text describing particular subjects of _Developer CI Benefits_. Each doc/item will be viewed as a "slide" for the talk.
 
 ## Items
 
