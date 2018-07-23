@@ -1,10 +1,10 @@
 # Continuous Integration
 
-Continuous Integration is the practice of merging all developer working copies to a shared mainline several times a day.
+Continuous Integration is the practice of merging all developer working copies to a shared mainline several times a day. [Read more here](https://en.wikipedia.org/wiki/Continuous_integration).
 
 ## My definition
 
-Continuous Integration is a pattern of programming combining infrastructure, testing, and development practices to safely and confidently push code from development to production continuously.
+> Continuous Integration is a pattern of programming combining infrastructure, testing, and development practices to safely and confidently push code from development to production continuously.
 
 ----
 
@@ -12,7 +12,7 @@ The definition that I provided includes continuous delivery (CD). CD is not focu
 
 ## What are the main parts of CI within a repository?
 
-CI consists, as defined by this talk, of 4 parts: code, a feedback loop for discussing code, testing code that defines code that will go to production's quality, runner scripts that compile production quality code and run testing code.
+The talk further explains CI in 4 parts: code, a feedback loop for discussing code, testing code that defines code that will go to production's quality, runner scripts that compile production quality code and run testing code.
 
 ### Code
 
@@ -29,7 +29,3 @@ Unit tests, acceptance tests, linting, types provide information about code qual
 ### Runner Scripts
 
 While Testing code defines production code quality. Testing code does not build scripts for production or run tests in a maintainable or chronological way. Runner Scripts test code, compile code for production, and provide feedback loops so that engineers or systems can decide if code is production ready.
-
-----
-
-These 4 steps will be referenced throughout the rest of this talk.

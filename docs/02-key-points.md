@@ -9,6 +9,6 @@ This talk will cover basic to conclusive points about implementing CI. It will r
 - **Defining CI:** Talk setup with comments from experts a clearly defining CI
 - **Testing:** Description of unit testing and end to end testing with example(s)
 - **CI Tooling:** Exploration into using safety checks and doc templates
-- **CI Setup:** An explanation of developer benefits of using CI
-- **Take-aways:** Actual talks will provide a demonstrations
+- **CI Setup:** A walk through of setting up CI today
+- **Take-aways:** A few ideas, code repositories to view, and demonstrations
 

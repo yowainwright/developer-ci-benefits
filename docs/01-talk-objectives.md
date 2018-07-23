@@ -10,7 +10,8 @@ For developers experienced in integrating CI, this talk provides 1 or 2 paths to
 
 ## A Few Items That Will Be Glossed Over
 
-I've found CI/CD (which stands for Continuous Integration, Continuous Delivery, and Continuous Deployment) is not very talked about. In order to provide a good base to any developer, this mainly discusses CI. I would like to follow up on the CD end of things by either supporting anyone that would like to present a talk about it—or provide a talk of my own.
+I've found CI/CD (which stands for Continuous Integration, Continuous Delivery, and Continuous Deployment) is not very talked about. In order to provide a good base to any developer, this talk **mainly discusses CI**!
+I would like to follow up on the CD end of things by either supporting anyone that would like to present a talk about it—or provide a talk of my own.
 
 CI saves a lot of money. It saves money by making engineers more productive because of quicker feedback loops, auto integration, and reducing bottlenecks.
 
