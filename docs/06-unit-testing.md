@@ -36,17 +36,23 @@ Using a browser this method can be unit tested using `console.assert`. Read more
 ```javascript
 
 const addsOne = (num) => num + 1
-
 const numPlus1 = addsOne(3)
-
 const stringNumPlus1 = addsOne('3')
 
-console.assert(numPlus1, 4)
-console.assert(stringNumPlus1, 4)
+/**
+ * console.assert
+ * https://developer.mozilla.org/en-US/docs/Web/API/console/assert
+ * @param test?
+ * @param string
+ * @returns string if the test fails
+ */
+
+console.assert(numPlus1 === 4, 'The variable `numPlus1` is not 4!')
+console.assert(stringNumPlus1 === 4, 'The variable `stringNumPlus1` is not 4!')
 
 ```
 
-The unit test above catches a problem! If the `num` argument is a string the function fails.
+The unit test above catches a problem! If the `num` argument is a string the function fails and provides the `error message` _'The variable \`stringNumPlus1\` is not 4!'_.
 
 An engineer can now decide how to change, fix or not fix the function.
 
@@ -55,4 +61,4 @@ An engineer can now decide how to change, fix or not fix the function.
 ## An for advanced users
 
 `Console.assert` was used to display how unit testing can be done without any libraries.
-However, frameworks like [Jest](https://jestjs.io/) are often used to describe how code that will be compiled for production should function. This important to not because tests can run within your editor as you code using [Quokka](https://quokkajs.com/). Quokka can test code as it is written, log code via comment asserts, and communicate code that is tests—or untested.
+However, frameworks like [Jest](https://jestjs.io/) are often used to describe how code that will be compiled for production should function. This important to note because tests can run within your editor as you code using [Quokka](https://quokkajs.com/). Quokka can test code as it is written, log code via comment asserts, and communicate code that is tests—or untested!
