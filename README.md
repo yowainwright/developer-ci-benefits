@@ -80,9 +80,11 @@ The list below contains references that were used in the construction of this re
 
 Listed below are people I would like to thank for helping me learn enough to give this talk. Because these people will be referenced in the talk, I'd like to thank them.
 
-- **[Rouzbeh Sarrafieh](https://github.com/rouzbeh84):** Thanks for helping me with this talk and always making software seem so fun.
-- **[Brian Gonzalez](https://github.com/briangonzalez):** Thanks for building a lot of cool s**t always—projects referenced in this talk; starting [Harmless Changes](https://github.com/dollarshaveclub/harmless-changes).
-- **[Jon Ong](http://github.com/jonathanong):** You're brilliant and I got to watch you build awesome project—including projects for CI—like [gh-automerge](https://github.com/jonathanong/gh-automerge).
 - **[Arjan Singh](https://github.com/arjansingh):** Thanks for forcing me to do TDD (Test Driven Development).
-- **[Matt Young](https://github.com/someguynamedmatt):** Thanks doing a bunch of cool CI projects—like Auto-Update—make it public!
 - **[Brian Gates](https://github.com/brian-gates):** Thanks for improving caching practices in CircleCi. You've saved me so much time.
+- **[Brian Gonzalez](https://github.com/briangonzalez):** Thanks for building a lot of cool s**t always—projects referenced in this talk; starting [Harmless Changes].
+- **[Jon Ong](http://github.com/jonathanong):** You're brilliant and I got to watch you build awesome project—including projects for CI—like [gh-automerge](https://github.com/jonathanong/gh-automerge).
+- **[Matt Young](https://github.com/someguynamedmatt):** Thanks doing a bunch of cool CI projects—like Auto-Update—make it public!
+- **[Rouzbeh Sarrafieh](https://github.com/rouzbeh84):** Thanks for helping me with this talk and always making software seem so fun.
+(https://github.com/dollarshaveclub/harmless-changes).
+
