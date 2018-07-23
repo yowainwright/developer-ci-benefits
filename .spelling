@@ -110,6 +110,13 @@ READMEs
 goto
 HEARTLY
 Heartly
+README.md
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md.
+ISSUE_TEMPLATE.md.
+PULL_REQUEST_TEMPLATE.md
+_anything
  - docs/06-unit-testing.md
 es6
 es5
