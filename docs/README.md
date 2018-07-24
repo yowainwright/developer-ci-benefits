@@ -8,7 +8,7 @@ Each doc/item will be presented in the talk.
 
 ## Bulleted Items/Documents 🔫
 
-Listed below are docs for the talk. The [Docs README](https://github.com/yowainwright/developer-ci-benefits/blob/master/docs/README.md) can be viewed for more docs information.
+Listed below are docs for the talk. The [Docs README](/docs/README.md) can be viewed for more docs information.
 
 ----
 
