@@ -14,7 +14,7 @@ Listed below are docs for the talk. The [Docs README](https://github.com/yowainw
 
 - **[Talk Objectives](01-talk-objectives.md)**
   - Talk introduction
-- **[Key Points](02-key-point.md)**
+- **[Key Points](02-key-points.md)**
   - The key points covered in the talk
 - **[Supporting Quotes](03-supporting-quotes.md)**
   - Quotes to sell this talks value
@@ -22,10 +22,10 @@ Listed below are docs for the talk. The [Docs README](https://github.com/yowainw
   - CI definition with context
 - **[Doc Tooling](05-doc-tooling.md)**
   - A description and list of repository documentation
-- **[Unit Testing](06-unit-test.md)**
+- **[Unit Testing](06-unit-testing.md)**
   - Introduction to unit testing
   - A basic unit testing example in pure JavaScript
-- **[End to End Testing](07-end-to-end-testing.md)**
+- **[End to End Testing](07-acceptance-testing.md)**
   - Introduction to end to end testing
   - A basic end-to-end test example
 - **[Safety Checks](08-safety-checks.md)**
@@ -38,10 +38,11 @@ Listed below are docs for the talk. The [Docs README](https://github.com/yowainw
   - A description of what dependencies are and how to update them
 - **[Publishing Repositories](12-publishing-repositories.md)**
   - A high level walk through of publishing NPM packages
-- **[Benefits of CI](12-ci-benefits.md)**
+- **[Benefits of CI](13-ci-benefits.md)**
   - CI benefits
-- **[Optimizations](14-optimizing-builds.md)**
+- **[Optimizations](14-optimizations.md)**
   - Notes on easy build optimizations
 - **[Talk Summation](16-talk-summation.md)**
   - A summary of the talk cuz that's it
 
+----
