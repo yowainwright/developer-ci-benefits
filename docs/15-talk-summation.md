@@ -10,7 +10,7 @@ This talk acknowledges systems that should be implemented into every repository 
 
 - Give this talk a star
 - [Submit a Pull Request](https://github.com/yowainwright/developer-ci-benefits/pulls)
-- [Sumbit an Issue](https://github.com/yowainwright/developer-ci-benefits/issues)
+- [Submit an Issue](https://github.com/yowainwright/developer-ci-benefits/issues)
 
 ## About the Speaker
 

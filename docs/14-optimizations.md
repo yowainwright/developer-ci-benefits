@@ -62,4 +62,4 @@ jobs:
 
 ### Harmless Changes
 
-**[Harmless Changes](https://github.com/dollarshaveclub/harmless-changes)** helps skip unneccessary tests if they're not needed. The initial work for this was done by [Brian Gonzalez](https://github.com/briangonzalez).
+**[Harmless Changes](https://github.com/dollarshaveclub/harmless-changes)** helps skip unnecessary tests if they're not needed. The initial work for this was done by [Brian Gonzalez](https://github.com/briangonzalez).
