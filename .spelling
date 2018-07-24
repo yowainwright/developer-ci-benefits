@@ -142,3 +142,7 @@ heartly
 Jeffry.in
  - docs/07-acceptance-testing.md
 iframe
+ - docs/13-ci-benefits.md
+CodeCov
+CircleCI
+PRs
