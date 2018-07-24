@@ -39,6 +39,19 @@ CircleCi
 cli
 iTerm
 eslint
+json
+i
+pr
+npm
+postpublish
+npm_package_version
+markdownlint-cli
+markdownlint
+md
+ci
+mdspell
+node_modules
+prepush
  - docs/10-implementing-ci.md
 Init
 CicleCi
@@ -127,3 +140,5 @@ json
  - docs/15-talk-summation.md
 heartly
 Jeffry.in
+ - docs/07-acceptance-testing.md
+iframe
