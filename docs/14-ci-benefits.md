@@ -1,4 +1,4 @@
-# Communicating Benefits
+# CI Benefits
 
 The main reason why I wanted to write a talk about CI is because of how much it has  helped me to grow as a developer. I read and have seen a lot of content on how to improve as a developer.
 Most of the content is great. However, no matter how much developers want to work on improving skill or learning—time can be a blocker or an enabler to goals.
