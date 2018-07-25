@@ -16,7 +16,7 @@ include:
 
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
+* Accepting constructive criticism
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
@@ -67,8 +67,4 @@ members of the project's leadership.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
-[homepage]: https://www.contributor-covenant.org
-
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4, available at [Contributor Covenant, Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
