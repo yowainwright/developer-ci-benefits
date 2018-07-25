@@ -1,13 +1,19 @@
 # Unit Tests
 
-Unit Tests test small blocks of code to ensure that what is expected is the result.
+Unit Tests test small blocks (units) of code to ensure that what is expected is the result of the tested small block of code.
 Unit tests provide a lot of help with CI. They define code quality and provide developers with feedback without having to push/merge/host code.
 
-There are testing frameworks that provide assistance with unit tests. When I started writing tests regularly, I quickly felt overwhelmed. The next slide provides more context into unit testing.
+----
+
+Unit tests are in the [Testing Code](what-is-ci.md) category of CI.
 
 ## Unit Testing Example
 
 The example below is a unit test provided purely by the browser!
+
+----
+
+### A TypeScript Aside
 
 The function below is written in TypeScript initially. This is done so _hopefully_, a potential failure is clear
 _(The function expects a number)_. TypeScript help define a code's interface.
@@ -19,8 +25,10 @@ const addsOne = (num: number) => num + 1
 
 ```
 
+----
+
 Here's an es6 or es5 version of the same method.
-This code (below) is what the TypeScript above will be compiled into.
+This code (below) is what the TypeScript above will be or would be compiled into.
 
 ```javascript
 

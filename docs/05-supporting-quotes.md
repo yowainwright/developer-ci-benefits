@@ -2,6 +2,8 @@
 
 CI is development process pattern that is so mandatory that it is undiscussed by developers that practice it. It is undiscussed by developers that don't practice it for the exact opposite reasons.
 
+----
+
 > Testing is one of these things that people don't talk about it a lot because people don't do it. ...People that do do testing are extremely passionate about it—like crossfit. ...I have a feeling a lot of people don't test.
 
 _Paraphrasing [Wes Bos](wesbos.com) from the [Syntax](syntax.fm) podcast on [test](https://syntax.fm/show/040/the-testing-show)_

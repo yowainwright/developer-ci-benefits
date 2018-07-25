@@ -2,6 +2,8 @@
 
 In this talk, CI setup, road to benefits, and benefits will be discussed.
 
+----
+
 ## Talk Objectives
 
 This talk summarizes what continuous integration (CI) is, basic frontend setup, and how it can benefit engineers.

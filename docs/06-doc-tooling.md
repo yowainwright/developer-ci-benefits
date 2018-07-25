@@ -2,6 +2,11 @@
 
 Documentation is a key part of implementing CI. There are many patterns for documentation. The great news is that Github provides standard templates and there is a lot of content that can be copied to get documentation setup quickly.
 
+----
+
+Documentation is in the [Feeback Loop](what-is-ci.md) category of CI.
+
+
 ## Standard Documents
 
 Listed below are standard documents use to describe a repository. These documents are related to CI because the can offer a quick introduction to a project.

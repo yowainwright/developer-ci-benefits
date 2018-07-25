@@ -2,6 +2,8 @@
 
 Before taking time to learn about CI, or to make a case for CI, understanding the problems CI solves is important.
 
+----
+
 Listed below are problems that CI solves.
 
 - When more than 1 developer that wants to merge into a production branch at once
