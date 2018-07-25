@@ -2,17 +2,17 @@
 
 # Talk: Developer CI Benefits
 
-> The Developer CI Benefits talk repository provides documents, links, lists, notes, and slides to support the talk. The CI Benefits Talk covers: setup, road to benefits, and benefits of CI. This talk's examples are provided in shell commands and JavaScript but can be applied to other development patterns. If unfamiliar, CI stands for [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration).
+> The Developer CI Benefits talk repository provides documents, links, lists, images, and notes to support the talk. The CI Benefits Talk covers: setup, road to benefits, and benefits of CI. This talk's examples are provided in shell commands and JavaScript but can be applied to other development patterns and languages. If unfamiliar, CI stands for [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration).
 
 ----
 
 ## Initiatives 📈
 
-The sections below provide context into to flow of the **Developer CI Benefits** talk. This talk uses JavaScript to describe CI but CI pattern in other languages may be similar.
+The sections below provide context into to flow of the **Developer CI Benefits** talk. This talk uses JavaScript to describe CI but CI patterns in other languages may be similar.
 
 ### Context
 
-This talk is aimed at developers interested in CI benefits. It describes how CI works with examples for  getting started with CI. It touches on different tooling and options available for CI. It connects implementation on CI and ways to save time for developers and money for companies.
+This talk is aimed at developers interested in CI benefits. It describes how CI works with examples for  getting started with CI. It touches on different tooling and options available for CI. It connects implementation of CI and ways to save time for developers and money for companies.
 
 ### Goals
 
@@ -21,6 +21,8 @@ This talk's goals are to describe CI, CI benefits, CI patterns, and provide deve
 ### Conclusions
 
 Concluding this talk, listeners/developers will have tools to use to start their own CI processes. They will have a brief exploration into different CI patterns. They will be aware of benefits that developers receive after implementing CI.
+
+![Gif as provided from https://ewanjonesmorris.com/](https://media.giphy.com/media/3o6ZtfSX0jZ2vpaEco/source.gif)
 
 ----
 
@@ -69,7 +71,7 @@ Listed below are docs for the talk. The [Docs README](docs/README.md) can be vie
 
 ## Reference 📝
 
-The list below contains references that were used in the construction of this repository.
+Listed below are references used in the construction of this repository.
 
 - **[CircleCi](https://circleci.com/):** the tool used and described in this repository to run CI
 - **[Travis](https://travis-ci.org/):** a CI runner alternative to CircleCi used to run CI
