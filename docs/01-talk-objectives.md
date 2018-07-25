@@ -10,20 +10,22 @@ For developers experienced in integrating CI, this talk provides 1 or 2 paths to
 
 ## A Few Items That Will Be Glossed Over
 
-I've found CI/CD (which stands for Continuous Integration, Continuous Delivery, and Continuous Deployment) is not very talked about. In order to provide a good base to any developer, this talk **mainly discusses CI**!
-I would like to follow up on the CD end of things by either supporting anyone that would like to present a talk about it—or provide a talk of my own.
+CI/CD (which stands for Continuous Integration, Continuous Delivery, and Continuous Deployment) is not very talked about. In order to provide a good base to any developer, this talk **mainly discusses CI**!
+A future goal would like to follow up on this Developer CI Benefits repository with a Developer CD Benefits repository.
 
 CI saves a lot of money. It saves money by making engineers more productive because of quicker feedback loops, auto integration, and reducing bottlenecks.
 
 Directly correlating CI to company savings is hard because SaaS costs go up. So, if a developers wants to sell CI to the business, the formula below can be reviewed.
 
-### Time developers spend on integration
+### Time developers spend on integration and money saved
 
-| Key Factor | No CI/CD Integration Productivity Points Value (no CI) | New CI/CD Integration Productivity Points Value (w CI) | Savings
+The table below provides rough context into how to calculate expected saving from implementing CI.
+
+| Key Factor | No CI/CD Integration Productivity Points Value (no CI) | New CI/CD Integration Productivity Points Value (w CI) | Savings ($)
 |---|---|---|---|
-| Developer points per sprint (pts) | 13  | 13 | - |
-| Developer points spent on integration  (int) | 5 |  1 |  ((no CI pts)/no CI int) * 100) - ((w CI pts)/w CI int) * 100) = (percent savings)
-| Developer Salary (salary) | - | - | (salary)/(sprint length) * (percent savings) * (number of developers) = (cost savings)
+| Developer points per sprint (pts) | pts (ex: 13)  | pts (ex: 13) | - |
+| Developer points spent on integration  (int) | int (5) | int (1) |  ((no CI int/no CI pts) * 100) - ((w CI int/w CI pts) * 100) = (percent savings) (ex: ~30%)
+| Developer Salary (salary) | - (ex: $~100k) | - (ex: $~100k) | (salary)/(sprint length) * (percent savings) * (number of developers) = (cost savings) (ex: ~$4800 savings per 1wk sprint with 8 developers considering ~30% time savings)
 
 ----
 
