@@ -4,7 +4,7 @@ Before taking time to learn about CI, or to make a case for CI, understanding th
 
 Listed below are problems that CI solves.
 
-- When more ther is more than 1 developer that wants to merge into a master branch at once
+- When more their is more than 1 developer that wants to merge into a master branch at once
 - When mistakes are not caught or can not be fixed before deployment
 - When dependencies become out of date
 - When developers have to wait extended periods of time to merge code

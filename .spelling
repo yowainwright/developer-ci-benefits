@@ -148,3 +148,76 @@ iframe
 CodeCov
 CircleCI
 PRs
+ - docs/05-supporting-quotes.md
+undiscussed
+crossfit
+Wes
+Bos
+_
+ - docs/06-doc-tooling.md
+CODE_OF_CONDUCT
+ISSUE_TEMPLATE
+PULL_REQUEST_TEMPLATE
+READMEs
+goto
+HEARTLY
+Heartly
+README.md
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md.
+ISSUE_TEMPLATE.md.
+PULL_REQUEST_TEMPLATE.md
+_anything
+ - docs/07-unit-testing.md
+es6
+es5
+console.assert
+Quokka
+ - docs/08-acceptance-testing.md
+iframe
+ - docs/09-safety-checks.md
+Eslint
+TS-Lint
+Stylelint
+Markdownlint
+HTMLLint
+JSDocs
+TypeDocs
+ - docs/10-running-tests-and-checks.md
+CircleCi
+cli
+iTerm
+eslint
+json
+i
+pr
+npm
+postpublish
+npm_package_version
+markdownlint-cli
+markdownlint
+md
+ci
+mdspell
+node_modules
+prepush
+ - docs/11-implementing-ci.md
+Init
+Linter
+CicleCi
+javascript
+ - docs/12-dependency-updates.md
+Greenkeper
+semver
+ - docs/13-publishing-repositories.md
+orgs
+npmjs.com
+ui
+ - docs/14-ci-benefits.md
+CodeCov
+CircleCI
+PRs
+ - docs/15-optimizations.md
+GH-Automerge
+Ong
