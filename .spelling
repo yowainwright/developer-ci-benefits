@@ -113,6 +113,11 @@ Sarrafieh
 Github
 NPM
 mergable
+linters
+Eslint
+JSDoc
+npm
+cli
  - docs/04-what-is-ci.md
 Github
 NPM

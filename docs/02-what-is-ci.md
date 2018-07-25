@@ -22,7 +22,7 @@ Code can exist in many environments—think FTP, code editor tools, design tools
 
 ### Feedback Loop
 
-The Feedback loop is how other developers discuss, share, and update code—even if they never talk. This does not initially appear to be part of CI. However, for CI to be maintainable, common feedback loop patterns should be established. This can be done with linting, editor configuration, types, comments, documentation and auto templates during the integration process. Examples of code that provides a feeback loop are linters ([Eslint](https://eslint.org/)), comments ([JSDoc](http://usejsdoc.org/)), and [Github templates](https://help.github.com/articles/about-issue-and-pull-request-templates/).
+The Feedback loop is how other developers discuss, share, and update code—even if they never talk. This does not initially appear to be part of CI. However, for CI to be maintainable, common feedback loop patterns should be established. This can be done with linting, editor configuration, types, comments, documentation and auto templates during the integration process. Examples of code that provides a feedback loop are linters ([Eslint](https://eslint.org/)), comments ([JSDoc](http://usejsdoc.org/)), and [Github templates](https://help.github.com/articles/about-issue-and-pull-request-templates/).
 
 ### Testing code
 
