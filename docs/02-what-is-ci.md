@@ -14,11 +14,11 @@ The definition that I provided includes continuous delivery (CD). CD is not focu
 
 ## What are the main parts of CI within a repository?
 
-The talk further explains CI in 4 parts: code, a feedback loop for discussing code, testing code that defines code that will go to production's quality, runner scripts that compile production quality code and run testing code.
+The talk further explains CI in 4 parts: code, a feedback loop for discussing code, testing code, runner scripts that compile production quality code and run testing code.
 
 ### Code
 
-Code can exist in many environments—think FTP, code editor tools, design tools (After Effects) if your mind immediately jumps to git. Git repositories are standard environment to store code. This talk focuses on code hosted on Github and updated using git and publishing via NPM. The q of this code exists within production.
+Code can exist in many environments—think FTP, code editor tools, design tools (After Effects)—if your mind immediately jumps to git. Git repositories are a standard environment to store code. This talk focuses on code hosted on Github and is updated using git and published via NPM.
 
 ### Feedback Loop
 
@@ -26,8 +26,8 @@ The Feedback loop is how other developers discuss, share, and update code—even
 
 ### Testing code
 
-Unit tests, acceptance tests, linting, types provide information about code quality. These scripts/code define whether the quality of the code is of quality mergable into a production branch. None of these scripts/code resides within production. It is closely paired with code that will be compiled into production code. It it typically run with scripts or
+Unit tests, acceptance tests, linting, and types provide information about code quality. These bits of code (or scripts) define whether the quality is mergable into a production branch—before another developer even looks at any code changes! These bits of code do not exist in production.
 
 ### Runner Scripts
 
-While Testing code defines production code quality. Testing code does not build scripts for production or run tests in a maintainable or chronological way. Runner Scripts test code, compile code for production, and provide feedback loops so that engineers or systems can decide if code is production ready.
+While Testing code defines code quality. Testing code does not build code for production or run tests in a maintainable or chronological way. Runner Scripts run test code, compile code for production, and provide feedback loops so that engineers or systems can decide if code is production ready.
