@@ -13,4 +13,3 @@ Listed below are key steps that will be discussed during the talk.
 - **CI Tooling:** Exploration into using safety checks and doc templates
 - **CI Setup:** A walk through of setting up CI today
 - **Take-aways:** A few ideas, code repositories to view, and demonstrations
-

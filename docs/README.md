@@ -4,7 +4,7 @@ The docs folder contains *docs/item(s) discussed in the talk.
 
 Each doc/item will be presented in the talk.
 
-**items:** with the context of a repository, each file is an "item" containing text describing particular subjects of _Developer CI Benefits_. Each doc/item will be viewed as a "slide" for the talk.
+**items:** each doc file is an "item" containing text describing particular subjects of the _Developer CI Benefits_ talk. Each doc/item is a "slide" in the talk.
 
 ## Bulleted Items/Documents 🔫
 
@@ -16,7 +16,7 @@ Listed below are docs for the talk.
   - Talk introduction
 - **[What is CI](02-what-is-ci.md)**
   - CI definition with context
-  - **[Key Points](03-key-points.md)**
+- **[Key Points](03-key-points.md)**
   - The key points covered in the talk
 - **[What problems CI Solves](04-ci-solves-problems.md)**
   - Defines problems that are solved with CI
@@ -48,3 +48,12 @@ Listed below are docs for the talk.
   - A summary of the talk cuz that's it
 
 ----
+
+## Repository Language and Doc Setup
+
+Listed below are note to reading or contributing to making this talk better.
+
+- Use repetitive language
+  - These docs use repetitive language to ensure readability. This repository tries to acknowledge that its information may be unfamiliar.
+- Use repetitive `.md` style
+  - These docs use repetitive formatting to ensure visual readability.

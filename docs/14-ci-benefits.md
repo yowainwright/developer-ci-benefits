@@ -1,8 +1,10 @@
 # CI Benefits
 
-The main reason why I wanted to write a talk about CI is because of how much it has  helped me to grow as a developer. I read and have seen a lot of content on how to improve as a developer.
-Most of the content is great. However, no matter how much developers want to work on improving skill or learning—time can be a blocker or an enabler to goals.
-It is common to read about quick keys or tools like Alfred for speeding up workflow but I've found CI is largest enabler or time savings.
+The main reason for a talk about CI is because of how much it helps developer growth. There is a lot of content on how to improve as a developer.
+Most of the content is great! However, no matter how much developers want to work on improving skill or learning, time can be a blocker or an enabler to goals.
+It is common to read about [quick keys](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) or tools like [Alfred](https://www.alfredapp.com/) for speeding up workflow but CI might be largest enabler or time savings.
+
+----
 
 ## CI Benefits in Bullets
 

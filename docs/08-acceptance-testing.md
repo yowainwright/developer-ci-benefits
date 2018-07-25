@@ -53,4 +53,6 @@ describe('confirm that the <iframe/> loads', () => {
 
 ```
 
+----
+
 The code above spins up a browser using Puppeteer. Once the browser is running, Puppeteer goes to `APP`, looks for an iframe, and "clicks" it. Tests such as this can be very useful to testing parts of compiled bit of codes interface. In the test above, the code test if the `<iframe>` loads. This is usefully to catching compilation errors before committing updates for full end-to-end tests.

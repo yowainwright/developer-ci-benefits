@@ -4,25 +4,23 @@ Running Tests within CI is done via a `.yml` file whether [Travis](https://travi
 
 ----
 
-#### Note
-
 > Travis and Circle work very similarly. For this talk, CircleCi will be used for documentation.
 
 ----
 
 ## A brief introduction into running tests and safety checks
 
-Most tests and safety checks are run via shell commands or cli tools. Shell commands are commands that can be run in an application like [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)), [iTerm](https://www.iterm2.com/), or [Hyper](https://hyper.is/). Shell commands communicate directly to a computer, telling it what do to. For CI purposes, these commands mainly relate to reading files and providing information about the files to us.
+Most tests and safety checks are run via runner scripts—shell commands or cli tools (see the **runner scripts** description in [talk objectives](01-talk-objectives.md)). Shell commands are commands are run in an application like [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)), [iTerm](https://www.iterm2.com/), or [Hyper](https://hyper.is/). Shell commands communicate directly to a computer, telling it what do to. For CI purposes, these commands mainly relate to reading files and providing information about the files to us.
 
 ### Making Sense of Running Tests and Safety Checks
 
-A human can do all of the things CI Tests and Safety Checks do. A human can try changed code in an application to see if it works, review spelling, and look over code quality. All of that review takes a long time and is prone to human error. Apps can be used to run tests and safety checks but starting apps manually and using an app's interface takes time too but do this repeatedly also takes a lot of human time.
+A human can do all of the things CI Tests and Safety Checks do. A human can try changed code in an application to see if it works, review spelling, and look over code quality. All of **that** review takes a long time and is prone to human error. Apps can be used to run tests and safety checks but starting apps manually and using an app's interface takes a lot of time too.
 
 On the contrary to human review and manual app review, running tests and safety commands via a shell can use apps and tools without a human involvement to achieve the same results but better. Plus, running commands can be done repeatedly within a short time frame and at an automated time frame. More information about running commands at an automated time frame will be described in a later document.
 
 ## Running Test and Check Examples
 
-Listed below are visual command examples of when it looks like to run a command.
+Listed below are visual runner script command examples.
 
 **Remove `node_modules` and re-install them**
 
@@ -63,11 +61,11 @@ eslint --fix
 
 ```
 
-Eslint is another tool. Eslint is use review code quality of JavaScript code. Eslint also provides a CLI. The command above runs eslint. The `--fix` is an optional argument of Eslint's CLI. It fixes all issues it can without any developer changes required.
+[Eslint](https://eslint.org/) is another tool. Eslint is use review code quality of JavaScript code. Eslint also provides a CLI. The command above runs eslint. The `--fix` is an optional argument of Eslint's CLI. It fixes all issues it can without any developer changes required.
 
 ## Useful Commands to Add to Workflows
 
-The runner scripts below are presented for quick review and use to quickly incorporate CI.ory
+The runner scripts below are presented for quick review and use to incorporate CI.
 
 ### Create automatic CHANGELOG.md updates
 

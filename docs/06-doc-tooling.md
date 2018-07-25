@@ -4,7 +4,9 @@ Documentation is a key part of implementing CI. There are many patterns for docu
 
 ----
 
-Documentation is in the [Feeback Loop](what-is-ci.md) category of CI.
+> Documentation is in the [Feeback Loop](what-is-ci.md) category of CI.
+
+----
 
 
 ## Standard Documents
@@ -61,6 +63,6 @@ Listed below are quick steps that can be copy and pasted with your own minor upd
     - This [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/stevemao/github-issue-templates/master/simple/PULL_REQUEST_TEMPLATE.md) from [Steve Mao](https://github.com/stevemao) can be copied for quick setup.
   - `ISSUE_TEMPLATE.md` and `PULL_REQUEST_TEMPLATE.md` will automatically be populated when their correlated action is initialized (meaning, in example, when a pull request is submitted).
 
-## Documentation
+## An Aside on Documentation
 
 Documentation? I say "YES" always! There is debate around how to document and documentation best practices. Books like [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) provide a lot of thoughts on documents and code comments. I find documentation to be valuable because it can provide context beyond code—think business objectives that affect code quality. Even a comment that is not updated after the code has been updated provides context when integrated within git. There are great points that disagree with the sentiment of the sentences above on documentation. The general sentiment for this talk is _anything_ that prevents/helps with non-manual work giving developers more opportunity to work.

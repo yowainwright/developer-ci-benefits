@@ -4,18 +4,26 @@ One of the huge benefits of basic CI is automatic dependency updates with tools 
 
 ## What are automatic dependency updates?
 
-Often code in repositories is dependent on code from packages. Referencing and using code from other packages speeds up the development process. In JavaScript, code from packages referenced within a  `package.json` file. Dependency update tools, like Greenkeeper monitory a repository's dependency packages for updates. If a dependency package is updated, Greenkeper will submit a pull request within a repository which will trigger CI. If CI passes, the updated dependency will be referenced in future builds.
+Often code in repositories is dependent on code within packages. Referencing and using code from other packages speeds up the development process. In JavaScript, code from other packages is referenced within a  `package.json` file. Dependency update tools like Greenkeeper monitory a repository's dependency packages for updates. If a dependency package is updated and Greenkeeper is enabled, it will submit a pull request within the repository which will trigger CI.
 
 This is greatly beneficial for developers because dependencies can be kept up to date much more easily.
 
+----
+
+> Packages are modules of code that can be imported into dependent repositories. In example, when building a ship with legos, different blocks of legos are used to build the ship. It doesn't matter whether a unique block was initially meant for another ship, came by itself, or was for the ship, If the block is the right shape, contains the correct amount of pegs, and is the correct color—it can be used to make the ship!
+
+----
+
 ## Breaking down dependencies
 
-Packages have a corresponding semver number that is generally defined by 3 numbers and dots. Here's an example for reading clarity, `1.2.3`. These numbers can be followed by a `-` with other information. For the purposes of this talk, only the first 3 numbers will be discussed.
+Packages have a corresponding semver numbers that is generally defined by 3 numbers and dots. Here's an example for reading clarity, `1.2.3`. These numbers can be followed by a `-` with other information. For the purposes of this talk, only the first 3 numbers will be discussed.
 
 Here's the number references again so that it can be reviewed in greater detail:
 
-```sh
+```txt
+
 1.2.3
+
 ```
 
 - The `1` represents a major version. This will only be changed with major updates. If this number is change, updates should be reviewed carefully.

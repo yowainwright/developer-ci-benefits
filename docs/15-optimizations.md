@@ -1,6 +1,8 @@
 # Optimized Builds and Developer Experience
 
-Optimizing builds can be approached in many ways beyond what has previously been discussed in this talk.
+Optimizing builds can be approached in many ways beyond what has been discussed in this talk.
+
+----
 
 ## Optimizing Circle Builds
 
@@ -52,14 +54,11 @@ jobs:
 
 ```
 
-### Optimize bundles, but check them
+### Open Source CI Optimization Tools
 
-**[ES-Check](https://github.com/dollarshaveclub/es-check)** is a tool that compared specified bundles again ES version. [Read more here](https://engineering.dollarshaveclub.com/futuristic-javascript-and-how-to-ensure-it-doesnt-crash-browsers-today-350df0473527#7f5e).
-
-### GH-Automerge
-
-**[GH-Automerge](https://github.com/jonathanong/gh-automerge)** by [Jon Ong](https://github.com/jonathanong) automatically merges passing builds using CircleCi.
-
-### Harmless Changes
-
-**[Harmless Changes](https://github.com/dollarshaveclub/harmless-changes)** helps skip unnecessary tests if they're not needed. The initial work for this was done by [Brian Gonzalez](https://github.com/briangonzalez).
+- **[ES-Check](https://github.com/dollarshaveclub/es-check)** by [Dollar Shave Club](https://github.com/dollarshaveclub/)
+  - Compares specified bundles against ES versions. [Read more here](https://engineering.dollarshaveclub.com/futuristic-javascript-and-how-to-ensure-it-doesnt-crash-browsers-today-350df0473527#7f5e).
+- **[GH-Automerge](https://github.com/jonathanong/gh-automerge)** by [Jon Ong](https://github.com/jonathanong)
+  - Automatically merges passing builds using CircleCi and Github.
+- **[Harmless Changes](https://github.com/dollarshaveclub/harmless-changes)** by [Dollar Shave Club](https://github.com/dollarshaveclub/)
+  - helps skip unnecessary tests if the tests are not needed. The initial work for this was done by [Brian Gonzalez](https://github.com/briangonzalez).

@@ -4,37 +4,35 @@ Getting CI started for a repository takes minutes or even less! This document wi
 
 ----
 
-#### Note
-
 > Travis and Circle work very similarly. For this talk, CircleCi will be used for documentation.
 
 ----
 
 ## Starting Integration
 
-Once code is unit tested and the developer is more confident to submit a pull request or merge their code into a master (shared) branch, there are more safety checks to assist them in submitting code.
+Once code is unit tested and the developer is confident enough to submit a pull request or merge their code into a master (shared) branch, there are more safety checks to assist them in submitting code.
 
-**Note:** the sentence above assumed that [git]() is being used. Code can be submitted via alternate patterns like FTP or saving within a CMS. In those scenarios unit tests and the integrations below can still be used.
+----
 
-## Safety Checks
+> The sentence above assumed that [git](https://git-scm.com/) is being used. Code can be submitted via alternate patterns like FTP or saving within a CMS. In those scenarios unit tests and the integrations below can still be used.
 
-Safety Checks like Type Checkers, Linter, Documentation and Git helpers can catch unexpected bugs, define code, fix spelling, and make code more uniform to universal developer patterns.
+----
 
-### Unit Tests
-
-### End to End Tests
-
-### Code Quality Checks
+There are common scripts that are run in CI like safety checks, unit tests, acceptance tests and code quality checks. Review [Talk Objectives](01-talk-objectives.md) for more reference.
 
 ## Automatic Setup
 
-If test commands are already defined, CI can be implemented with no configuration. In a CI tool, like [Travis](https://travis-ci.org/) or [CircleCi](https://circleci.com/), you search for your repository a click a button that is essentially—start building with CI.
+CI can be setup automatically for both CircleCi and Travis! If a valid `test` command is already defined in the repository's `package.json`, CI can be implemented without any more configuration.
 
-For JavaScript, CicleCi will look at `test` within a repository's `package.json` to see it valid test script is added. If it is, then CircleCi will begin running CI automatically.
+In a CI tool, like [Travis](https://travis-ci.org/) or [CircleCi](https://circleci.com/), the repository can be searched for after logging in or being authenticated. From there, follow the CI tool's UI to start testing.
 
-## Very basic setup if Tests are not yet written
+For JavaScript, CicleCi will look at `test` within a repository's `package.json` to see it valid test script is added. If it is, then CircleCi will begin running CI automatically. Read more about setting up CircleCi automatically [here](https://circleci.com/docs/enterprise/quick-start/).
 
-If tests aren't yet written, setting up CI can still be implemented. Below, a basic ci setup will be defined for a javascript project.
+## Setting up CI Configuration
+
+If tests aren't yet written, or if a more configured setup is needed, a configuration `.yml` file can be added for a CI tool (like CircleCi) to execute runner scripts from.
+
+Demonstrated below is how to setup a custom CircleCi configuration with JavaScript linting (Eslint) for a CircleCi.
 
 1. Setup linting.
    - npm install eslint --save-dev
@@ -63,18 +61,16 @@ If tests aren't yet written, setting up CI can still be implemented. Below, a ba
 
      ```
 
-After those 2 steps CircleCi should pick up the `.circleci/config.yml`.
+After the steps above are completed and after CircleCi has been configured in Github (read about that [here](https://circleci.com/docs/2.0/), CircleCi will pick up the `.circleci/config.yml` and lint JavaScript in a CI process when a pull request is submitted.
 
 ## Why is setting up even basic CI so important?
 
-Setting up CI even with the most basic setup is extremely beneficial for time saving and code quality!
+Setting up CI even with the most basic setup is beneficial for time savings and code quality!
 
-Two featured that can save developers hours per week with such small CI featuring are automatic dependency updates and build testing. These features will be discussed further in other documents.
+Two features that can save developers hours per week with simple CI are automatic dependency updates and *build testing. Dependency updates will be discussed more [here](12-dependency-updates.md).
 
 ----
 
-#### Note
-
-> Travis and Circle work very similarly. For this talk, CircleCi will be used for documentation.
+> Build testing means when `node_modules` are installed during CI by running an install, `npm install` for example, all `node_modules` install as expected. This is a simple task and **does** fail. Ensuring that `node_modules` install as expected saves considerable time for developers!
 
 ----

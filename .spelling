@@ -192,6 +192,8 @@ Markdownlint
 HTMLLint
 JSDocs
 TypeDocs
+commitizen
+TypeDoc
  - docs/10-running-tests-and-checks.md
 CircleCi
 cli
@@ -218,6 +220,8 @@ javascript
  - docs/12-dependency-updates.md
 Greenkeper
 semver
+legos
+color
  - docs/13-publishing-repositories.md
 orgs
 npmjs.com

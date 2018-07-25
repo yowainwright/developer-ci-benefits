@@ -5,7 +5,9 @@ Unit tests provide a lot of help with CI. They define code quality and provide d
 
 ----
 
-Unit tests are in the [Testing Code](what-is-ci.md) category of CI.
+> Unit tests are in the [Testing Code](what-is-ci.md) category of CI.
+
+----
 
 ## Unit Testing Example
 
@@ -66,7 +68,5 @@ An engineer can now decide how to change, fix or not fix the function.
 
 ----
 
-## An for advanced users
-
 `Console.assert` was used to display how unit testing can be done without any libraries.
-However, frameworks like [Jest](https://jestjs.io/) are often used to describe how code that will be compiled for production should function. This important to note because tests can run within your editor as you code using [Quokka](https://quokkajs.com/). Quokka can test code as it is written, log code via comment asserts, and communicate code that is tests—or untested!
+However, frameworks like [Jest](https://jestjs.io/) are often used to describe how code that will be compiled for production should function. This important to note because tests can run within a text editor as you code using tools like [Quokka](https://quokkajs.com/). Quokka can test code as it is written, log code via comment asserts, and communicate code that is tests—or untested!

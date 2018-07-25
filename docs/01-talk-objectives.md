@@ -31,4 +31,6 @@ The table below provides rough context into how to calculate expected saving fro
 
 ----
 
-* The example/formula/table above does not include developers solely focused on Integration. In a CI model, those developers after CI integration can be used throughout the rest of the development process. This can seem like a way to remove developers. However, at Dollar Shave Club in example, all developers that worked on Integration now productively work other parts of the company's code base—like faster server spin-ups—[see Dollar Shave Club's blog for more reading on this](https://engineering.dollarshaveclub.com/).
+> The example/formula/table above does not include developers solely focused on Integration. In a CI model, those developers after CI integration can be used throughout the rest of the development process. This can seem like a way to remove developers. However, at Dollar Shave Club in example, all developers that worked on Integration now productively work other parts of the company's code base—like faster server spin-ups—[see Dollar Shave Club's blog for more reading on this](https://engineering.dollarshaveclub.com/).
+
+----

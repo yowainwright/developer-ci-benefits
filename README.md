@@ -34,7 +34,7 @@ Listed below are docs for the talk. The [Docs README](docs/README.md) can be vie
   - Talk introduction
 - **[What is CI](docs/02-what-is-ci.md)**
   - CI definition with context
-  - **[Key Points](docs/03-key-points.md)**
+- **[Key Points](docs/03-key-points.md)**
   - The key points covered in the talk
 - **[What problems CI Solves](docs/04-ci-solves-problems.md)**
   - Defines problems that are solved with CI
