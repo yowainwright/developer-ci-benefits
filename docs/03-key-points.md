@@ -6,6 +6,8 @@ This talk will cover basic to conclusive points about implementing CI. It will r
 
 ## Talk Outline
 
+Listed below are key steps that will be discussed during the talk.
+
 - **Defining CI:** Talk setup with comments from experts a clearly defining CI
 - **Testing:** Description of unit testing and end to end testing with example(s)
 - **CI Tooling:** Exploration into using safety checks and doc templates
