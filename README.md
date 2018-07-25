@@ -77,7 +77,6 @@ Listed below are references used in the construction of this repository.
 - **[NPM](https://www.npmjs.com/):** a package manager for node/JavaScript projects
 - **[Jest](https://jestjs.io/):** a unit testing tool for testing JavaScript projects
 - **[Puppeteer](https://pptr.dev/):** a Chrome browser tool that provides an API to control Chrome
-- **[Selenium](https://github.com/SeleniumHQ/selenium/wiki/Getting-Started):** a tool for automating web testing
 
 ## Shoutouts 🙏
 
