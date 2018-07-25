@@ -21,7 +21,7 @@ Directly correlating CI to company savings is hard because SaaS costs go up. So,
 
 The table below provides rough context into how to calculate expected saving from implementing CI.
 
-| Key Factor | No CI/CD Integration Productivity Points Value (no CI) | New CI/CD Integration Productivity Points Value (w CI) | Savings ($)
+| Key Factor | No CI Integration (no CI) | With CI Integration (with CI) | Calculation
 |---|---|---|---|
 | Developer points per sprint (pts) | pts (ex: 13)  | pts (ex: 13) | - |
 | Developer points spent on integration  (int) | int (5) | int (1) |  `((<no CI int>/<no CI pts>) * 100) - ((<with CI int>/<with CI pts>) * 100) = percent savings` (ex: ~30%) |
