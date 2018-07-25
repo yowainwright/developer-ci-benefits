@@ -22,8 +22,6 @@ This talk's goals are to describe CI, CI benefits, CI patterns, and provide deve
 
 Concluding this talk, listeners/developers will have tools to use to start their own CI processes. They will have a brief exploration into different CI patterns. They will be aware of benefits that developers receive after implementing CI.
 
-![Gif as provided from https://ewanjonesmorris.com/](https://media.giphy.com/media/3o6ZtfSX0jZ2vpaEco/source.gif)
-
 ----
 
 ## Bulleted Documents 🔫
