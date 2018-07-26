@@ -6,13 +6,13 @@ This document discusses acceptance testing.
 
 ### Difference between Acceptance Testing and End-to-end Testing Aside
 
-[Integration tests](https://en.wikipedia.org/wiki/Integration_testing) work similarly to [End-to-end tests](https://medium.freecodecamp.org/why-end-to-end-testing-is-important-for-your-team-cb7eb0ec1504). They go through particular tests flows to define passing or failing scenarios.
+[Integration tests](https://en.wikipedia.org/wiki/Integration_testing) work similarly to [End-to-end tests](https://medium.freecodecamp.org/why-end-to-end-testing-is-important-for-your-team-cb7eb0ec1504). They go through particular test flows to define passing or failing scenarios.
 
 For example, if we have a repository that contains a chunk of code that has a browser testable interface but is not a full interface, an Integration test can test that block of code using similar tooling as an End-to-end test would use. The difference that an End-to-end test is meant to test a complete interface as if it is in production. The Integration test only tests a chunk of the interface.
 
 ---
 
-## Integration Testing Example
+## Integration Test Example
 
 The example below is an Integration test. The test assumes a local server is running.
 
