@@ -2,29 +2,28 @@
 
 Documentation is a key part of implementing CI. There are many patterns for documentation. The great news is that Github provides standard templates and there is a lot of content that can be copied to get documentation setup quickly.
 
-----
+---
 
 > Documentation is in the [Feeback Loop](what-is-ci.md) category of CI.
 
-----
-
+---
 
 ## Standard Documents
 
 Listed below are standard documents use to describe a repository. These documents are related to CI because the can offer a quick introduction to a project.
 
-- **README:** the README is general a markdown file that provides information about a repository
-- **CHANGELOG:** the CHANGELOG is a markdown file describes changes within a repository
-- **CODE_OF_CONDUCT:** the CODE OF CONDUCT is a markdown file that dictates expected communication patterns within repository pull requests and issues
-- **LICENSE:** the LICENSE is a text file that dictate rules of law to protect a repository
+- **README:** the _README_ is general a markdown file that provides information about a repository
+- **CHANGELOG:** the _CHANGELOG_ is a markdown file describes changes within a repository
+- **CODE_OF_CONDUCT:** the _CODE OF CONDUCT_ is a markdown file that dictates expected communication patterns within repository pull requests and issues
+- **LICENSE:** the _LICENSE_ is a text file that dictate rules of law to protect a repository
 
 ### `.github` TEMPLATES
 
 Github Templates that are placed within a `.github` folder. Each template is automatically presented based Github interactions.
 
 - **CONTRIBUTING:** the CONTRIBUTING template is an auto-reply markdown template that provide repository contributing context by referencing CODE OF CONTENT and maybe guidelines to successful contribution
-- **ISSUE_TEMPLATE:* the ISSUE template is an auto-reply markdown template that appears after a developer submits an issue
-- **PULL_REQUEST_TEMPLATE:** the PULL REQUEST TEMPLATE is an auto-reply markdown template that appears when a developer submits a pull request
+- \*_ISSUE_TEMPLATE:_ the _ISSUE_ template is an auto-reply markdown template that appears after a developer submits an issue
+- **PULL_REQUEST_TEMPLATE:** the _PULL REQUEST TEMPLATE_ is an auto-reply markdown template that appears when a developer submits a pull request
 
 ### Standard Documents reference materials
 
