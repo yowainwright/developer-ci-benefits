@@ -18,7 +18,7 @@ Once code is unit tested and the developer is confident enough to submit a pull 
 
 ---
 
-There are common scripts that are run in CI like safety checks, unit tests, acceptance tests and code quality checks. Review [Talk Objectives](01-talk-objectives.md) for more reference.
+There are common scripts that are run in CI like safety checks, unit tests, integration tests and code quality checks. Review [Talk Objectives](01-talk-objectives.md) for more reference.
 
 ## Automatic Setup
 
