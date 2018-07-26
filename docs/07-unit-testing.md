@@ -19,7 +19,8 @@ The example below is a unit test provided purely by the browser!
 
 The function below is written in TypeScript initially. This is done so, _hopefully_, a potential failure is clear
 _(the function expects a number)_. TypeScript helps define a code's interface.
- After writing the code below in TypeScript, a text editor can be configured to quickly communicate to a developer if it is working as expected.
+
+After writing the code below in TypeScript, a text editor can be configured to quickly communicate to a developer if it is working as expected.
 
 ```typescript
 
@@ -34,10 +35,9 @@ This code (below) is what the TypeScript above will be or would be compiled into
 
 ```javascript
 
-// es 6
+// es6
 const addsOne = (num) => num + 1
-
-// es 5
+// es5
 function addsOne (num) { return num + 1 }
 
 ```
