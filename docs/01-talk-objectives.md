@@ -7,7 +7,7 @@ In this talk, CI setup, road to benefits, and benefits will be discussed.
 ## Talk Objectives
 
 This talk summarizes what continuous integration (CI) is, basic frontend setup, and how it can benefit engineers.
-Hopefully this talk will provide context for developers who do not use CI—or who find setup challenging.
+Hopefully this talk will provide context for developers who do not use CI — or who find CI setup challenging.
 For developers experienced in integrating CI, this talk provides 1 or 2 paths to integrating CI. This talk can provide a clear path for discussion, new ideas, or even quick wins.
 
 ## A Few Items That Will Be Glossed Over
@@ -17,17 +17,17 @@ A future goal would like to follow up on this Developer CI Benefits repository w
 
 CI saves a lot of money. It saves money by making engineers more productive because of quicker feedback loops, auto integration, and reducing bottlenecks.
 
-Directly correlating CI to company savings is hard because SaaS costs go up. So, if a developers wants to sell CI to the business, the formula below can be reviewed.
+Directly correlating CI to company savings is hard because SaaS costs go up. So, if a developer wants to sell CI to the business, the formula below can be utilized.
 
 ### Time developers spend on integration and money saved
 
 The table below provides rough context into how to calculate expected saving from implementing CI.
 
-| Key Factor | No CI Integration (no CI) | With CI Integration (with CI) | Calculation
-|---|---|---|---|
-| Developer points per sprint (pts) | pts (ex: 13)  | pts (ex: 13) | no calculation |
-| Developer points spent on integration  (int) | int (ex: 5) | int (ex: 1) |  `(<no CI int>/<no CI pts>) - (<with CI int>/<with CI pts>) = savings (number decimal)` (ex: ~30% productivity savings) |
-| Developers Average Salary (salary) | salary (ex: $~100k) | salary (ex: $~100k) | `(<average salary> * <savings>) * <number of developers> = cost savings` (ex: ~$249,600 savings with 8 developers paid the same with a ~30% productivity savings) |
+| Key Factor                                   | No CI Integration (no CI) | With CI Integration (with CI) | Calculation                                                                                                                                                       |
+| -------------------------------------------- | ------------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Developer points per sprint (pts)            | pts (ex: 13)              | pts (ex: 13)                  | no calculation                                                                                                                                                    |
+| Developer points spent on integration  (int) | int (ex: 5)               | int (ex: 1)                   | `(<no CI int>/<no CI pts>) - (<with CI int>/<with CI pts>) = savings (number decimal)` (ex: ~30% productivity savings)                                            |
+| Developers Average Salary (salary)           | salary (ex: $~100k)       | salary (ex: $~100k)           | `(<average salary> * <savings>) * <number of developers> = cost savings` (ex: ~$249,600 savings with 8 developers paid the same with a ~30% productivity savings) |
 
 Here's a [CodePen](https://codepen.io/yowainwright/pen/wxqzMw/) that uses the calculation above.
 

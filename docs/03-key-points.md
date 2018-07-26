@@ -2,7 +2,7 @@
 
 This talk will cover basic to conclusive points about implementing CI. It will reference my experiences learning about, implementing, and enjoying CI.
 
-----
+---
 
 ## Talk Outline
 
