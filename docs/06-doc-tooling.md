@@ -22,7 +22,7 @@ Listed below are standard documents use to describe a repository. These document
 Github Templates that are placed within a `.github` folder. Each template is automatically presented based Github interactions.
 
 - **CONTRIBUTING:** the CONTRIBUTING template is an auto-reply markdown template that provide repository contributing context by referencing CODE OF CONTENT and maybe guidelines to successful contribution
-- \*_ISSUE_TEMPLATE:_ the _ISSUE_ template is an auto-reply markdown template that appears after a developer submits an issue
+- \*ISSUE_TEMPLATE:_ the _ISSUE_ template is an auto-reply markdown template that appears after a developer submits an issue
 - **PULL_REQUEST_TEMPLATE:** the _PULL REQUEST TEMPLATE_ is an auto-reply markdown template that appears when a developer submits a pull request
 
 ### Standard Documents reference materials
