@@ -8,4 +8,4 @@
 
 ----
 
-> Read about references issues [here](https://help.github.com/articles/closing-issues-using-keywords/). Replease words with Pull Request context.
+> Read about referenced issues [here](https://help.github.com/articles/closing-issues-using-keywords/). Replace words with this Pull Request's context.
