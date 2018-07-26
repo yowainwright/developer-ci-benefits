@@ -246,3 +246,5 @@ behavior
 behaviors
  - docs/08-Integration-testing.md
 iframe
+ - docs/04-ci-solves-problems.md
+gh-automerge
