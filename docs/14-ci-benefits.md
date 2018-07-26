@@ -1,3 +1,5 @@
+![CI Benefits](https://jeffry.in/assets/developer-ci-benefits/14-ci-benefits.svg)
+
 # CI Benefits
 
 The main reason for a talk about CI is because of how much it helps developer growth. There is a lot of content on how to improve as a developer.

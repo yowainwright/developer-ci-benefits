@@ -1,3 +1,5 @@
+![Running Tests and Safety Checks](https://jeffry.in/assets/developer-ci-benefits/10-running-tests-and-checks.svg)
+
 # Running Tests and Safety Checks
 
 Running Tests within CI is done via a `.yml` file whether [Travis](https://travis-ci.org/) or [CircleCi](https://circleci.com/) is being used. To get up and running, CI checks do not require much.

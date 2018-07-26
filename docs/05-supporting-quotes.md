@@ -1,3 +1,5 @@
+![Supporting Quotes](https://jeffry.in/assets/developer-ci-benefits/05-supporting-quotes.svg)
+
 # Supporting Quotes
 
 CI is a development process pattern that is so mandatory it is undiscussed by the developers that practice it. It is undiscussed by developers that don't practice it for the exact opposite reasons.

@@ -1,3 +1,5 @@
+![Developer CI Benefits Docs](https://jeffry.in/assets/developer-ci-benefits/banner.svg)
+
 # Developer CI Benefits Docs
 
 The docs folder contains *docs/item(s) discussed in the talk.

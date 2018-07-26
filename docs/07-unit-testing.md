@@ -1,3 +1,5 @@
+![Unit Tests](https://jeffry.in/assets/developer-ci-benefits/07-unit-testing.svg)
+
 # Unit Tests
 
 Unit Tests test small blocks (units) of code to ensure that what is expected is the result of the tested small block of code.

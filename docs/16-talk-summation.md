@@ -1,3 +1,5 @@
+![Talk Summation](https://jeffry.in/assets/developer-ci-benefits/16-talk-summation.svg)
+
 # Talk Summation
 
 In this talk, CI setup and benefits where discussed. This talk may contain a lot of review for those experienced with CI. The goal of this talk is to provide parity with quick opportunities to speed up developer workflow with CI.

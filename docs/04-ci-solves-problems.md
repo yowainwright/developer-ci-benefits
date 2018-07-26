@@ -1,3 +1,5 @@
+![What problems does CI solve?](https://jeffry.in/assets/developer-ci-benefits/04-ci-solves-problems.svg)
+
 # What problems does CI solve?
 
 Before taking time to learn about CI, or to make a case for CI, understanding the problems CI solves is important.

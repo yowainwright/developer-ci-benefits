@@ -1,3 +1,5 @@
+![Safety Checks](https://jeffry.in/assets/developer-ci-benefits/09-safety-checks.svg)
+
 # Safety Checks
 
 Safety Checks are a catch-all for this talk. Safety Checks help communicate code and code quality. Documentation, document templates, Linting, Spell Checking, and Type Checking are all Safety Checks. These tools can be automated to run during commits, in development, or during CI.

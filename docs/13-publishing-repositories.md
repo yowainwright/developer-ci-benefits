@@ -1,3 +1,5 @@
+![Publishing Repositories](https://jeffry.in/assets/developer-ci-benefits/13-publshing-repositories.svg)
+
 # Publishing Repositories
 
 Publishing packages, even if the only dependencies are an organization's dependencies, can be very valuable. With a few steps, packages can be published publicly or privately.
