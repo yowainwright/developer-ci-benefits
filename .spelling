@@ -224,6 +224,7 @@ CicleCi
 javascript
 configs
 config
+CircleCI
  - docs/12-dependency-updates.md
 Greenkeper
 semver

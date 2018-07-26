@@ -10,15 +10,15 @@ Running Tests within CI is done via a `.yml` file whether [Travis](https://travi
 
 ## A brief introduction into running tests and safety checks
 
-Most tests and safety checks are run via runner scripts—shell commands or cli tools (see the **runner scripts** description in [talk objectives](01-talk-objectives.md)). Shell commands are commands are run in an application like [Terminal](<https://en.wikipedia.org/wiki/Terminal_(macOS)>), [iTerm](https://www.iterm2.com/), or [Hyper](https://hyper.is/). Shell commands communicate directly to a computer, telling it what do to. For CI purposes, these commands mainly relate to reading files and providing information about the files to us.
+Most tests and safety checks are run via runner scripts, shell commands, or CLI tools (see the **runner scripts** description in [talk objectives](01-talk-objectives.md)). Shell commands are commands run in an application like [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)), [iTerm](https://www.iterm2.com/), or [Hyper](https://hyper.is/). Shell commands communicate directly to a computer, telling it what do to. For CI purposes, these commands mainly relate to reading files and providing information about the files to us.
 
 ### Making Sense of Running Tests and Safety Checks
 
-A human can do all of the things CI Tests and Safety Checks do. A human can try changed code in an application to see if it works, review spelling, and look over code quality. All of **that** review takes a long time and is prone to human error. Apps can be used to run tests and safety checks but starting apps manually and using an app's interface takes a lot of time too.
+A human can do all of the things CI Tests and Safety Checks do. A human can try changing code in an application to see if it works, review spelling, and look over code quality. All of **that** review takes a long time and is prone to human error. Apps can be used to run tests and safety checks but starting apps manually and using an app's interface takes a lot of time too.
 
-On the contrary to human review and manual app review, running tests and safety commands via a shell can use apps and tools without a human involvement to achieve the same results but better. Plus, running commands can be done repeatedly within a short time frame and at an automated time frame. More information about running commands at an automated time frame will be described in a later document.
+On the contrary to human review and manual app review, running tests and safety commands via a shell can use apps and tools without human involvement to achieve the same results but better. Plus, running commands can be done repeatedly within a short time frame and at an automated time frame. More information about running commands at an automated time frame will be described in a later document.
 
-## Running Test and Check Examples
+## Running Test and Checks Examples
 
 Listed below are visual runner script command examples.
 
@@ -36,7 +36,7 @@ The command above will remove the `node_modules` directory with a shell command 
 ````sh
 ./some-shell-command.sh
 
-``
+```
 
 The `./` invokes the command and runs the script located within the file `some-shell-command.sh`.
 
@@ -47,6 +47,7 @@ The `./` invokes the command and runs the script located within the file `some-s
 jest
 ````
 
+```
 [Jest](https://jestjs.io/) is a testing tool with a command line interface (CLI). A CLI abstracts running commands to make it more specific to what is being done.
 
 **Linting JavaScript**
@@ -55,7 +56,7 @@ jest
 eslint --fix
 ```
 
-[Eslint](https://eslint.org/) is another tool. Eslint is use review code quality of JavaScript code. Eslint also provides a CLI. The command above runs eslint. The `--fix` is an optional argument of Eslint's CLI. It fixes all issues it can without any developer changes required.
+[ESLint](https://eslint.org/) is another tool. ESLint is used in reviewing quality of JavaScript code. ESLint also provides a CLI. The command above runs ESLint. The `--fix` is an optional argument of ESLint's CLI. It fixes all issues it can without any developer changes required.
 
 ## Useful Commands to Add to Workflows
 
@@ -94,7 +95,7 @@ yarn add eslint markdownlint-cli -D
 
 ### Fix Spelling in Markdown
 
-Runner scripts fix spelling. The example below provides spell checking for feature rich spell checking and spell checking for CI.
+Runner scripts fix spelling. The example below provides spell-checking for feature-rich spell-checking and spell-checking for CI.
 
 ```sh
 yarn add markdown-spellcheck -D
@@ -107,7 +108,7 @@ yarn add markdown-spellcheck -D
 
 ### Control Gitflow
 
-Controlling git can control the way that updates are presented within a repository.
+Controlling git can control the way updates are presented within a repository.
 
 ```sh
 yarn add husky -D
