@@ -20,7 +20,7 @@ This quote was chosen because it breaks down what can seem mythical into a proce
 
 > I am a process oriented developer. Building and using tools which provide as much feedback as possible is valuable to me.
 
-_— Me, [Jeff Wainwright](https://github.com/yowainwright)
+_— Me, [Jeff Wainwright](https://github.com/yowainwright)_
 ----
 
 ## Further CI reading
