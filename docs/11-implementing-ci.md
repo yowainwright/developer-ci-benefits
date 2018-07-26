@@ -63,6 +63,8 @@ Demonstrated below is how to setup a custom CircleCi configuration with JavaScri
 
 After the steps above are completed and after CircleCi has been configured in Github (read about that [here](https://circleci.com/docs/2.0/), CircleCi will pick up the `.circleci/config.yml` and lint JavaScript in a CI process when a pull request is submitted.
 
+View the [examples](examples/) folder of this repository to get ideas for configuring CI with config `.yml` files.
+
 ## Why is setting up even basic CI so important?
 
 Setting up CI even with the most basic setup is beneficial for time savings and code quality!
