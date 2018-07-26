@@ -2,6 +2,8 @@
 
 # Talk: Developer CI Benefits
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yowainwright/developer-ci-benefits.svg)](https://greenkeeper.io/)
+
 > The Developer CI Benefits talk repository provides documents, links, lists, images, and notes to support the talk. The CI Benefits Talk covers: setup, road to benefits, and benefits of CI. This talk's examples are provided in shell commands and JavaScript but can be applied to other development patterns and languages. If unfamiliar, CI stands for [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration).
 
 ----
