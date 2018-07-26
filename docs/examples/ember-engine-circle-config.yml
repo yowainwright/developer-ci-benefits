@@ -1,0 +1,68 @@
+defaults: &defaults
+  working_directory: ~/code
+  docker:
+    - image: circleci/node:8-browsers
+      environment:
+        BROCCOLI_PERSISTENT_FILTER_CACHE_ROOT: ~/.broccoli-cache
+        NPM_CONFIG_LOGLEVEL: error # make npm commands less noisy
+        JOBS: max # https://gist.github.com/ralphtheninja/f7c45bdee00784b41fed
+
+restore_cache_keys: &restore_cache_keys
+  keys:
+    - code-{{ .Branch }}-{{ checksum ".nvmrc" }}-{{ checksum "package.json"}}
+    - code-master-{{ checksum ".nvmrc" }}-{{ checksum "package.json"}}
+
+# create "done" jobs, which are just triggered when its dependencies are ran
+defaults_done: &defaults_done
+  <<: *defaults
+  steps:
+    - run: echo 'VERY SUCCESS!'
+
+version: 2
+jobs:
+  test:
+    <<: *defaults
+    steps:
+      - checkout
+      - restore_cache: *restore_cache_keys
+      - run: npm install
+      - run: npm run eslint:ci
+      - run: npm run test:ci || ./scripts/ci/slack.sh ember
+      - run: ./node_modules/.bin/codecov
+      - run: npm run test:es-check
+      - run: npm run check-version
+      - save_cache:
+          key: code-{{ .Branch }}-{{ checksum ".nvmrc" }}-{{ checksum "package.json"}}
+          paths:
+            - node_modules
+            - bower_modules
+            - ~/.broccoli-cache
+
+  done: *defaults_done
+
+  publish:
+    <<: *defaults
+    steps:
+      - checkout
+      - run: npm install
+      - run:
+          name: NPM Access ($NPM_WRITE_TOKEN set in Circle)
+          command: echo "//registry.npmjs.org/:_authToken=$NPM_WRITE_TOKEN" >> ~/.npmrc
+      - run: git config --global user.email "circle@dontemailme.com" && git config user.name "CircleCI"
+      - run: npm run update-tag
+      - run: npm publish
+
+workflows:
+  version: 2
+  test_all:
+    jobs:
+      - test
+      - done:
+          requires:
+            - test
+      - publish:
+          filters:
+            branches:
+              only: master
+          requires:
+            - done
