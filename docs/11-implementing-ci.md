@@ -2,21 +2,22 @@
 
 Getting CI started for a repository takes minutes or even less! This document will focus on getting set up quickly. More details will be provided in later documents.
 
-----
+---
 
 > Travis and Circle work very similarly. For this talk, CircleCI will be used for documentation.
 
-----
+---
 
 ## Starting Integration
 
 Once code is unit tested and the developer is confident enough to submit a pull request or merge their code into a master (shared) branch, there are more safety checks to assist them in submitting code.
 
-----
+---
 
 > The sentence above assumes that [git](https://git-scm.com/) is being used. Code can be submitted via alternate patterns like FTP or saving within a CMS. In those scenarios, unit tests and the integrations below can still be used.
 
-----
+---
+
 
 There are common scripts that are run in CI like safety checks, unit tests, acceptance tests, and code quality checks. Review [Talk Objectives](01-talk-objectives.md) for more reference.
 
@@ -71,8 +72,8 @@ Setting up CI even with the most basic setup is beneficial for time-saving and c
 
 Two features that can save developers hours per week with simple CI are automatic dependency updates and **build testing**[1]. Dependency updates will be discussed more [here](12-dependency-updates.md).
 
-----
+---
 
 > [1] Build testing means when `node_modules` are installed during CI by running an install, `npm install` for example, all `node_modules` install as expected. This is a simple task and **does** fail. Ensuring that `node_modules` install as expected and saves considerable time for developers!
 
-----
+---

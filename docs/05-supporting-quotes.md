@@ -2,7 +2,7 @@
 
 CI is a development process pattern that is so mandatory it is undiscussed by the developers that practice it. It is undiscussed by developers that don't practice it for the exact opposite reasons.
 
-----
+---
 
 > Testing is one of these things that people don't talk about it a lot because people don't do it. ...People that do do testing are extremely passionate about it — like CrossFit. ...I have a feeling a lot of people don't test.
 
@@ -18,12 +18,11 @@ _[David Farley](http://www.davefarley.net/), [Continuous Delivery](https://marti
 
 This quote was chosen because it breaks down what can seem mythical into a process that any person can follow and safely **try** to ship code.
 
-----
+---
 
 > I am a process-oriented developer. Building and using tools which provide as much feedback as possible are valuable to me.
 
-_— Me, [Jeff Wainwright](https://github.com/yowainwright)_
-----
+## _— Me, [Jeff Wainwright](https://github.com/yowainwright)_
 
 ## Further CI reading
 
