@@ -1,3 +1,5 @@
+![Continuous Integration](https://jeffry.in/assets/developer-ci-benefits/02-what-is-ci.svg)
+
 # Continuous Integration
 
 Continuous Integration is the practice of merging all developer working copies to a shared mainline several times a day. [Read more here](https://en.wikipedia.org/wiki/Continuous_integration).

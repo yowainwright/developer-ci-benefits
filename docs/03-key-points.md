@@ -1,3 +1,5 @@
+![Key Points](https://jeffry.in/assets/developer-ci-benefits/03-key-points.svg)
+
 # Key Points
 
 This talk will cover basic to conclusive points about implementing CI. It will reference my experiences learning about, implementing, and enjoying CI.

@@ -1,3 +1,5 @@
+![Optimized Builds and Developer Experience](https://jeffry.in/assets/developer-ci-benefits/15-optimizations.svg)
+
 # Optimized Builds and Developer Experience
 
 Optimizing builds can be approached in many ways beyond what has been discussed in this talk.

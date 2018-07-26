@@ -1,3 +1,5 @@
+![Documentation and Feedback Tooling](https://jeffry.in/assets/developer-ci-benefits/06-doc-tooling.svg)
+
 # Documentation and Feedback Tooling
 
 Documentation is a key part of implementing CI. There are many patterns for documentation. The great news is that Github provides standard templates and there is a lot of content that can be copied to get documentation setup quickly.

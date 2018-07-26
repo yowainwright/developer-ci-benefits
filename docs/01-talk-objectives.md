@@ -1,14 +1,12 @@
-# Developer CI Benefits
-
-In this talk, CI setup, road to benefits, and benefits will be discussed.
-
-----
+![Talk Objectives](https://jeffry.in/assets/developer-ci-benefits/01-talk-objectives.svg)
 
 ## Talk Objectives
 
 This talk summarizes what continuous integration (CI) is, basic frontend setup, and how it can benefit engineers.
 Hopefully this talk will provide context for developers who do not use CI — or who find CI setup challenging.
 For developers experienced in integrating CI, this talk provides 1 or 2 paths to integrating CI. This talk can provide a clear path for discussion, new ideas, or even quick wins.
+
+----
 
 ## A Few Items That Will Be Glossed Over
 
