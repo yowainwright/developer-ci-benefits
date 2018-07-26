@@ -2,9 +2,9 @@
 
 Before taking time to learn about CI, or to make a case for CI, understanding the problems CI solves is important.
 
-----
+---
 
-Listed below are problems that CI solves.
+Listed below are some of the problems that CI solves.
 
 - When more than one developer wants to merge into a production branch at once
 - When mistakes are not caught or can not be fixed before deployment
