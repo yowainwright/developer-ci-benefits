@@ -27,7 +27,7 @@ Listed below are docs for the talk.
 - **[Unit Testing](07-unit-testing.md)**
   - Introduction to unit testing
   - A basic unit testing example in pure JavaScript
-- **[Acceptance Testing](08-acceptance-testing.md)**
+- **[Integration Testing](08-integration-testing.md)**
   - Introduction to end to end testing
   - A basic end-to-end test example
 - **[Safety Checks](09-safety-checks.md)**
