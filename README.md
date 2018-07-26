@@ -45,7 +45,7 @@ Listed below are docs for the talk. The [Docs README](docs/README.md) can be vie
 - **[Unit Testing](docs/07-unit-testing.md)**
   - Introduction to unit testing
   - A basic unit testing example in pure JavaScript
-- **[Acceptance Testing](docs/08-integration-testing.md)**
+- **[Integration Testing](docs/08-integration-testing.md)**
   - Introduction to end to end testing
   - A basic end-to-end test example
 - **[Safety Checks](docs/09-safety-checks.md)**
