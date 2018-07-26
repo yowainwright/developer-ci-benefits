@@ -6,7 +6,7 @@ Optimizing builds can be approached in many ways beyond what has been discussed 
 
 ## Optimizing Circle Builds
 
-The code block below provides a caching example in CircleCi to optimize CI testing time. This featuring was initially improved by [Brian Gates](https://github.com/brian-gates)
+The code block below provides a caching example in CircleCI to optimize CI testing time. This featuring was initially improved by [Brian Gates](https://github.com/brian-gates)
 
 ```yml
 
@@ -59,6 +59,6 @@ jobs:
 - **[ES-Check](https://github.com/dollarshaveclub/es-check)** by [Dollar Shave Club](https://github.com/dollarshaveclub/)
   - Compares specified bundles against ES versions. [Read more here](https://engineering.dollarshaveclub.com/futuristic-javascript-and-how-to-ensure-it-doesnt-crash-browsers-today-350df0473527#7f5e).
 - **[GH-Automerge](https://github.com/jonathanong/gh-automerge)** by [Jon Ong](https://github.com/jonathanong)
-  - Automatically merges passing builds using CircleCi and Github.
+  - Automatically merges passing builds using CircleCI and Github.
 - **[Harmless Changes](https://github.com/dollarshaveclub/harmless-changes)** by [Dollar Shave Club](https://github.com/dollarshaveclub/)
   - helps skip unnecessary tests if the tests are not needed. The initial work for this was done by [Brian Gonzalez](https://github.com/briangonzalez).
