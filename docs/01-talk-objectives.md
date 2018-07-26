@@ -26,8 +26,10 @@ The table below provides rough context into how to calculate expected saving fro
 | Key Factor | No CI Integration (no CI) | With CI Integration (with CI) | Calculation
 |---|---|---|---|
 | Developer points per sprint (pts) | pts (ex: 13)  | pts (ex: 13) | no calculation |
-| Developer points spent on integration  (int) | int (ex: 5) | int (ex: 1) |  `((<no CI int>/<no CI pts>) * 100) - ((<with CI int>/<with CI pts>) * 100) = percent savings` (ex: ~30% productivity savings) |
-| Developer Salary (salary) | salary (ex: $~100k) | salary (ex: $~100k) | `(<salary>/<sprint length> * .<percent savings>) * <number of developers> = cost savings` (ex: ~$4800 savings per 1wk sprint with 8 developers paid the same with a ~30% productivity savings) |
+| Developer points spent on integration  (int) | int (ex: 5) | int (ex: 1) |  `(<no CI int>/<no CI pts>) - (<with CI int>/<with CI pts>) = savings (number decimal)` (ex: ~30% productivity savings) |
+| Developers Average Salary (salary) | salary (ex: $~100k) | salary (ex: $~100k) | `(<average salary> * <savings>) * <number of developers> = cost savings` (ex: ~$249,600 savings with 8 developers paid the same with a ~30% productivity savings) |
+
+Here's a [CodePen](https://codepen.io/yowainwright/pen/wxqzMw/) that uses the calculation above.
 
 ----
 
