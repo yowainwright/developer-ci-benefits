@@ -2,7 +2,9 @@
 
 # Continuous Integration
 
-Continuous Integration is the practice of merging all developer working copies to a shared mainline several times a day. [Read more here](https://en.wikipedia.org/wiki/Continuous_integration).
+> Continuous Integration is the practice of merging all developer working copies to a shared mainline several times a day.
+
+_[Wikipedia](https://www.wikipedia.org/) from the [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)_
 
 ----
 
