@@ -48,7 +48,7 @@ Listed below are docs for the talk. The [Docs README](docs/README.md) can be vie
   - Introduction to unit testing
   - A basic unit testing example in pure JavaScript
 - **[Integration Testing](docs/08-integration-testing.md)**
-  - Introduction to end to end testing
+  - Introduction to end-to-end testing
   - A basic end-to-end test example
 - **[Safety Checks](docs/09-safety-checks.md)**
   - A list of tools to assist with CI
@@ -59,7 +59,7 @@ Listed below are docs for the talk. The [Docs README](docs/README.md) can be vie
 - **[Dependency Updates](docs/12-dependency-updates.md)**
   - A description of what dependencies are and how to update them
 - **[Publishing Repositories](docs/13-publishing-repositories.md)**
-  - A high level walk through of publishing NPM packages
+  - A high level walk through the publishing process NPM packages
 - **[Benefits of CI](docs/14-ci-benefits.md)**
   - CI benefits
 - **[Optimizations](docs/15-optimizations.md)**
@@ -73,8 +73,8 @@ Listed below are docs for the talk. The [Docs README](docs/README.md) can be vie
 
 Listed below are references used in the construction of this repository.
 
-- **[CircleCi](https://circleci.com/):** the tool used and described in this repository to run CI
-- **[Travis](https://travis-ci.org/):** a CI runner alternative to CircleCi used to run CI
+- **[CircleCI](https://circleci.com/):** the tool used and described in this repository to run CI
+- **[Travis](https://travis-ci.org/):** a CI runner alternative to CircleCI used to run CI
 - **[Greenkeeper](https://greenkeeper.io/):** a tool that monitors and assists in updating JavaScript packages
 - **[NPM](https://www.npmjs.com/):** a package manager for node/JavaScript projects
 - **[Jest](https://jestjs.io/):** a unit testing tool for testing JavaScript projects
