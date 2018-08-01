@@ -1,4 +1,4 @@
-![Acceptance Testing](https://jeffry.in/assets/developer-ci-benefits/10-running-tests-and-checks.svg)
+![Acceptance Testing](https://jeffry.in/assets/developer-ci-benefits/10-running-tests-and-checks.svg?1)
 
 # Acceptance Testing
 

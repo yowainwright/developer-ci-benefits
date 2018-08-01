@@ -1,4 +1,4 @@
-![Talk Summation](https://jeffry.in/assets/developer-ci-benefits/16-talk-summation.svg)
+![Talk Summation](https://jeffry.in/assets/developer-ci-benefits/16-talk-summation.svg?1)
 
 # Talk Summation
 

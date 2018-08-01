@@ -1,4 +1,4 @@
-![What problems does CI solve?](https://jeffry.in/assets/developer-ci-benefits/04-ci-solves-problems.svg)
+![What problems does CI solve?](https://jeffry.in/assets/developer-ci-benefits/04-ci-solves-problems.svg?1)
 
 # What problems does CI solve?
 

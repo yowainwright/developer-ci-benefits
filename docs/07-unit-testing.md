@@ -1,4 +1,4 @@
-![Unit Tests](https://jeffry.in/assets/developer-ci-benefits/07-unit-testing.svg)
+![Unit Tests](https://jeffry.in/assets/developer-ci-benefits/07-unit-testing.svg?1)
 
 # Unit Tests
 

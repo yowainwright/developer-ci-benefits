@@ -1,4 +1,4 @@
-![Publishing Repositories](https://jeffry.in/assets/developer-ci-benefits/13-publshing-repositories.svg)
+![Publishing Repositories](https://jeffry.in/assets/developer-ci-benefits/13-publshing-repositories.svg?1)
 
 # Publishing Repositories
 

@@ -1,4 +1,4 @@
-![Key Points](https://jeffry.in/assets/developer-ci-benefits/03-key-points.svg)
+![Key Points](https://jeffry.in/assets/developer-ci-benefits/03-key-points.svg?1)
 
 # Key Points
 

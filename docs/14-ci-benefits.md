@@ -1,4 +1,4 @@
-![CI Benefits](https://jeffry.in/assets/developer-ci-benefits/14-ci-benefits.svg)
+![CI Benefits](https://jeffry.in/assets/developer-ci-benefits/14-ci-benefits.svg?1)
 
 # CI Benefits
 

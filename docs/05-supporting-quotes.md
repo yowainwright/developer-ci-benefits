@@ -1,4 +1,4 @@
-![Supporting Quotes](https://jeffry.in/assets/developer-ci-benefits/05-supporting-quotes.svg)
+![Supporting Quotes](https://jeffry.in/assets/developer-ci-benefits/05-supporting-quotes.svg?1)
 
 # Supporting Quotes
 

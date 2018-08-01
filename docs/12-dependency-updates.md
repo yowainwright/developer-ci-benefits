@@ -1,4 +1,4 @@
-![Dependency updates](https://jeffry.in/assets/developer-ci-benefits/12-dependency-updates.svg)
+![Dependency updates](https://jeffry.in/assets/developer-ci-benefits/12-dependency-updates.svg?1)
 
 # Dependency updates
 
