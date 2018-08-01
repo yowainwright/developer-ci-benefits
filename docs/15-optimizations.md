@@ -1,4 +1,4 @@
-![Optimized Builds and Developer Experience](https://jeffry.in/assets/developer-ci-benefits/15-optimizations.svg)
+![Optimized Builds and Developer Experience](https://jeffry.in/assets/developer-ci-benefits/15-optimizations.svg?1)
 
 # Optimized Builds and Developer Experience
 

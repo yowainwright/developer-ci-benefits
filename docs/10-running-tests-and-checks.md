@@ -1,4 +1,4 @@
-![Running Tests and Safety Checks](https://jeffry.in/assets/developer-ci-benefits/10-running-tests-and-checks.svg)
+![Running Tests and Safety Checks](https://jeffry.in/assets/developer-ci-benefits/10-running-tests-and-checks.svg?1)
 
 # Running Tests and Safety Checks
 

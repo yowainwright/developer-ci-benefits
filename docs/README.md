@@ -1,4 +1,4 @@
-![Developer CI Benefits Docs](https://jeffry.in/assets/developer-ci-benefits/banner.svg)
+![Developer CI Benefits Docs](https://jeffry.in/assets/developer-ci-benefits/banner.svg?1)
 
 # Developer CI Benefits Docs
 

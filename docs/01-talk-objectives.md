@@ -1,4 +1,4 @@
-![Talk Objectives](https://jeffry.in/assets/developer-ci-benefits/01-talk-objectives.svg)
+![Talk Objectives](https://jeffry.in/assets/developer-ci-benefits/01-talk-objectives.svg?1)
 
 ## Talk Objectives
 

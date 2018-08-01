@@ -1,4 +1,4 @@
-![Safety Checks](https://jeffry.in/assets/developer-ci-benefits/09-safety-checks.svg)
+![Safety Checks](https://jeffry.in/assets/developer-ci-benefits/09-safety-checks.svg?1)
 
 # Safety Checks
 

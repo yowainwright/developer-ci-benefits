@@ -1,4 +1,4 @@
-![Documentation and Feedback Tooling](https://jeffry.in/assets/developer-ci-benefits/06-doc-tooling.svg)
+![Documentation and Feedback Tooling](https://jeffry.in/assets/developer-ci-benefits/06-doc-tooling.svg?1)
 
 # Documentation and Feedback Tooling
 

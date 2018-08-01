@@ -1,4 +1,4 @@
-![Continuous Integration](https://jeffry.in/assets/developer-ci-benefits/02-what-is-ci.svg)
+![Continuous Integration](https://jeffry.in/assets/developer-ci-benefits/02-what-is-ci.svg?1)
 
 # Continuous Integration
 

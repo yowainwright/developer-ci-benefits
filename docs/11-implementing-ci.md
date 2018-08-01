@@ -1,4 +1,4 @@
-![CI Configuration Init](https://jeffry.in/assets/developer-ci-benefits/11-implementing-ci.svg)
+![CI Configuration Init](https://jeffry.in/assets/developer-ci-benefits/11-implementing-ci.svg?1)
 
 # CI Configuration Init
 
