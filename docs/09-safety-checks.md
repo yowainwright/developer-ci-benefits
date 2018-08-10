@@ -15,7 +15,7 @@ Safety Checks are a catch-all for this talk. Safety Checks help communicate code
 Listed below are tools that assist in checking code before submitting pull requests. Safety checks can also be incorporated into merges.
 
 - **Committing, merging, communicating**
-  - Git hook tools like [husky](https://github.com/typicode/husky) commit standardization tools like [commitizen](https://www.npmjs.com/package/commitizen), Github Templates, and Changelogs greatly help keep CI running code clean.
+  - Git hook tools like [husky](https://github.com/typicode/husky) commit standardization tools like [commitizen](https://www.npmjs.com/package/commitizen), Github Templates, and Changelogs greatly help keep CI running code clean. You can even run a linter on commit messages with [commitlint](https://github.com/marionebl/commitlint).
 - **Defining Code (Type Checkers)**
   - Tools like [TypeScript](http://www.typescriptlang.org/) define and communicate code interfaces — not only types!
   - **note:** TypeScript can seem like another layer of code abstraction or learning, so be gentle on yourself and others if learning is feeling overwhelming. Though on a team like Dollar Shave Club's Front End Engineering Team, TypeScript has helped bridge experience gaps, defined shareable design team patterns, and assist developers when they're confused about what code is doing.

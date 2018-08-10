@@ -200,6 +200,8 @@ commitizen
 TypeDoc
 ESlint
 TSLint
+linter
+commitlint
  - docs/10-running-tests-and-checks.md
 CircleCi
 cli
