@@ -13,6 +13,12 @@
 
 The sections below provide context into to flow of the **Developer CI Benefits** talk. This talk uses JavaScript to describe CI but CI patterns in other languages may be similar.
 
+----
+
+> 🔥 View a [demo](https://github.com/yowainwright/developer-ci-benefits-demo) of techniques described in this repository or discussed during the talk [here](https://github.com/yowainwright/developer-ci-benefits-demo) (also, on [NPM](https://www.npmjs.com/package/developer-ci-benefits-demo)).
+
+----
+
 ### Context
 
 This talk is aimed at developers interested in CI benefits. It describes how CI works with examples for  getting started with CI. It touches on different tooling and options available for CI. It connects implementation of CI and ways to save time for developers and money for companies.
