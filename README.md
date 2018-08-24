@@ -1,4 +1,4 @@
-![Developer CI Benefits](https://jeffry.in/assets/developer-ci-benefits/banner.svg?1) 
+![Developer CI Benefits](https://jeffry.in/assets/developer-ci-benefits/banner.svg?1)
 
 # Talk: Developer CI Benefits
 
@@ -86,6 +86,24 @@ Listed below are references used in the construction of this repository.
 - **[NPM](https://www.npmjs.com/):** a package manager for node/JavaScript projects
 - **[Jest](https://jestjs.io/):** a unit testing tool for testing JavaScript projects
 - **[Puppeteer](https://pptr.dev/):** a Chrome browser tool that provides an API to control Chrome
+
+----
+
+## Contributing
+
+The steps below define how to contribute to this repository.
+
+Contributing to this repository can be done by:
+
+1. forking this repository
+1. pushing a commit without bypassing [pre-commit](https://github.com/yowainwright/developer-ci-benefits/blob/master/package.json#L17) messages
+1. follow the messaging within the [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
+
+Besides code updates, this repository follows [Contributing Guidelines](CODE_OF_CONDUCT.md) as defined by [Contributing Covenant](https://www.contributor-covenant.org/) for communication within issues and pull request conversations.
+
+For updating and/or adding documents, use the Illustration templates [here](/art).
+
+----
 
 ## Shoutouts 🙏
 
