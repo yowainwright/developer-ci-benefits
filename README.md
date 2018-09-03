@@ -15,7 +15,8 @@ The sections below provide context into to flow of the **Developer CI Benefits**
 
 ----
 
-> 🔥 View a [demo](https://github.com/yowainwright/developer-ci-benefits-demo) of techniques described in this repository or discussed during the talk [here](https://github.com/yowainwright/developer-ci-benefits-demo) (also, on [NPM](https://www.npmjs.com/package/developer-ci-benefits-demo)).
+> - 🔥 View a [demo](https://github.com/yowainwright/developer-ci-benefits-demo) of techniques described in this repository or discussed during the talk [here](https://github.com/yowainwright/developer-ci-benefits-demo) (also, on [NPM](https://www.npmjs.com/package/developer-ci-benefits-demo)).
+> - ✅ View a [demo's depedent](https://github.com/yowainwright/developer-ci-benefits-demo-dependent) and how dependent project is influenced and can be update base on it's parent changes (also, no [NPM](https://www.npmjs.com/package/developer-ci-benefits-demo-dependent)).
 
 ----
 
