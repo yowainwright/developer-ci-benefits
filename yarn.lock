@@ -13,10 +13,10 @@ add-stream@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/add-stream/-/add-stream-1.0.0.tgz#6a7990437ca736d5e1288db92bd3266d5f5cb2aa"
 
-adverb-where@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/adverb-where/-/adverb-where-0.2.0.tgz#4c123844265eeba7ca02ccb08a80dfe3c51bb3bc"
-  integrity sha512-fWUACl56t2AQrDbD2yOYFi8cZTNiz0JuqtOwd3wbDMda5mtu8L7uZ3eLXD3ButIvEA4YcIk/fW3PdhMBHn6pUA==
+adverb-where@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/adverb-where/-/adverb-where-0.2.1.tgz#5c639ed02d06c4c61d64296cf72f6ea39e682a49"
+  integrity sha512-IAveFBziMRMNPKFdWRcdIKaJvJG1cAfU9/tf9MzqQ84Dh4QjD9eqwnt4hNSt9cbrcEJD74BMIOaRVgVDEU7MwQ==
 
 align-text@^0.1.1, align-text@^0.1.3:
   version "0.1.4"
@@ -1411,9 +1411,10 @@ nice-try@^1.0.4:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
 
-no-cliches@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/no-cliches/-/no-cliches-0.1.0.tgz#f4eb81a551fecde813f8c611e35e64a5118dc38c"
+no-cliches@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/no-cliches/-/no-cliches-0.2.2.tgz#8dca569aa9eb28a8c3f431804a5aadd524607f0a"
+  integrity sha512-iEOqDAOFl6uN5jZGRj39Jdo8qALzf2HPXtpFso8+BMaDylDrUMYMwhFbfYGgxdnMlsRnxYTwv68kaXEpsHIapg==
 
 normalize-package-data@^2.3.0, normalize-package-data@^2.3.2, normalize-package-data@^2.3.4, normalize-package-data@^2.3.5:
   version "2.4.0"
@@ -2027,10 +2028,10 @@ tmp@^0.0.33:
   dependencies:
     os-tmpdir "~1.0.2"
 
-too-wordy@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/too-wordy/-/too-wordy-0.2.1.tgz#1a73cac2187af6801aafc8ddb3bbfdbb6bdd444b"
-  integrity sha512-qZ6Vn6VJPV+im4+7cYLYKEx6CANydGzdxsDJBQdtBmxtL3n67eNwfET/0VB2bVA3O7/T5j6x8F2DiPxUNgIBow==
+too-wordy@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/too-wordy/-/too-wordy-0.2.2.tgz#e02b43a9e0817621a71db5d7d1c67634820a23d0"
+  integrity sha512-ePZfjs1ajL4b8jT4MeVId+9Ci5hJCzAtNIEXIHyFYmKmQuX+eHC/RNv6tuLMUhrGrhJ+sYWW/lBF/LKILHGZEA==
 
 trim-newlines@^1.0.0:
   version "1.0.0"
@@ -2122,17 +2123,17 @@ wrappy@1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
 
-write-good@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/write-good/-/write-good-1.0.0.tgz#ad22474c3862b63b805f53c5fdd780bc2be0e9ee"
-  integrity sha512-4AY0z0cWfT5G1ZVgRnRph7NkXh7BNnqxWZ6Ac4hGezDIgX3R6aJA4vwFjN1OQjDSRP6aEwJD0uaukyNKRxv1Kw==
+write-good@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/write-good/-/write-good-1.0.1.tgz#96a2a25e959761eb6a0430e108c865a479b45da1"
+  integrity sha512-wSmjZBTHMOexWmK3AmSORGlWAICD98BF0LORYjkK58tChjjMr/BltpvohCThxmIE2vcHYccXHzSVBd/v8ew71g==
   dependencies:
-    adverb-where "^0.2.0"
+    adverb-where "^0.2.1"
     commander "^2.19.0"
     e-prime "^0.10.2"
-    no-cliches "^0.1.0"
+    no-cliches "^0.2.2"
     passive-voice "^0.1.0"
-    too-wordy "^0.2.1"
+    too-wordy "^0.2.2"
     weasel-words "^0.1.1"
 
 xtend@~4.0.1:
