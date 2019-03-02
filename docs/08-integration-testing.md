@@ -1,12 +1,12 @@
-![Acceptance Testing](https://jeffry.in/assets/developer-ci-benefits/10-running-tests-and-checks.svg?1)
+![Integration Testing](https://jeffry.in/assets/developer-ci-benefits/10-running-tests-and-checks.svg?1)
 
-# Acceptance Testing
+# Integration Testing
 
-This document discusses acceptance testing.
+This document discusses integration testing.
 
 ---
 
-### Difference between Acceptance Testing and End-to-end Testing Aside
+### Difference between Integration Testing and End-to-end Testing Aside
 
 [Integration tests](https://en.wikipedia.org/wiki/Integration_testing) work similarly to [End-to-end tests](https://medium.freecodecamp.org/why-end-to-end-testing-is-important-for-your-team-cb7eb0ec1504). They go through particular test flows to define passing or failing scenarios.
 
