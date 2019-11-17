@@ -47,6 +47,6 @@
     "husky": "3.0.0",
     "markdown-spellcheck": "1.3.1",
     "markdownlint-cli": "0.18.0",
-    "write-good": "1.0.1"
+    "write-good": "1.0.2"
   }
 }
