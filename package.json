@@ -40,7 +40,7 @@
   },
   "homepage": "https://github.com/yowainwright/js-la-developer-ci-benefits#readme",
   "devDependencies": {
-    "commitizen": "3.1.2",
+    "commitizen": "4.0.5",
     "conventional-changelog-cli": "2.0.31",
     "developer-ci-benefits-demo": "^0.0.8",
     "developer-ci-benefits-demo-dependent": "^0.0.2",
